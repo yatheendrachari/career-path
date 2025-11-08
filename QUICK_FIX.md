@@ -1,0 +1,80 @@
+# Quick Fix for Signup Error
+
+## Problem
+Signup endpoint returns 500 error because MongoDB is not running.
+
+## Quick Solution
+
+### Step 1: Start MongoDB
+
+**Option A: If MongoDB is installed locally**
+```bash
+# Windows
+mongod
+
+# Or if installed as Windows service:
+net start MongoDB
+
+# Linux/Mac
+sudo systemctl start mongod
+# or
+mongod
+```
+
+**Option B: Use Docker (if you have Docker)**
+```bash
+docker run -d -p 27017:27017 --name mongodb mongo:latest
+```
+
+**Option C: Use MongoDB Atlas (Cloud - Free)**
+1. Go to https://www.mongodb.com/cloud/atlas
+2. Create free account
+3. Create cluster
+4. Get connection string
+5. Update `backend-node/.env`:
+   ```
+   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/career_path_db
+   ```
+
+### Step 2: Restart Node.js Backend
+
+After starting MongoDB, restart the backend:
+```bash
+cd backend-node
+# Stop current server (Ctrl+C)
+npm run dev
+```
+
+You should see: `MongoDB Connected: localhost`
+
+### Step 3: Test Signup
+
+Now try signing up again from the frontend. It should work!
+
+## Verification
+
+Check if MongoDB is running:
+```bash
+# Windows
+Get-Process -Name mongod
+
+# Linux/Mac
+ps aux | grep mongod
+```
+
+## What I Fixed
+
+1. ✅ Added MongoDB connection check before database operations
+2. ✅ Added better error handling with clear messages
+3. ✅ Returns 503 (Service Unavailable) instead of 500 when MongoDB is down
+4. ✅ Frontend will now show: "Database is not available. Please ensure MongoDB is running."
+
+## Current Status
+
+- ✅ Frontend: Running on http://localhost:5173
+- ✅ Node.js Backend: Running on http://localhost:3000
+- ⚠️ MongoDB: **NEEDS TO BE STARTED**
+- ✅ Error handling: Improved
+
+Once MongoDB is running, everything will work!
+
