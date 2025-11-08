@@ -77,6 +77,9 @@ export const CareerProvider = ({ children }) => {
     learningPath,
     selectedCareer,
     quizTopics,
+    setCareerPrediction,
+    setLearningPath,
+    setQuizResults: saveCareerPrediction, // Alias for quiz results
     saveCareerPrediction,
     saveLearningPath,
     setSelectedCareer,
@@ -89,3 +92,5 @@ export const CareerProvider = ({ children }) => {
     </CareerContext.Provider>
   );
 };
+
+export { CareerContext };
