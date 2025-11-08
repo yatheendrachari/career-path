@@ -15,6 +15,8 @@ from dotenv import load_dotenv
 import PyPDF2
 from jose import JWTError, jwt
 import numpy as np
+from auth import router as auth_router
+
 
 # Load environment variables
 load_dotenv()
@@ -36,6 +38,7 @@ ALGORITHM = os.getenv("JWT_ALGORITHM", "HS256")
 
 # CORS setup
 app = FastAPI(title="Career Recommendation API", version="2.0")
+app.include_router(auth_router, prefix="/auth")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
