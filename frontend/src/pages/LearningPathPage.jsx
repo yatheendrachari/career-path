@@ -101,7 +101,8 @@ const LearningPathPage = () => {
     setSaved(false);
 
     try {
-      const response = await axios.post('http://localhost:8000/generate-path', {
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+      const response = await axios.post(`${API_BASE_URL}/generate-path`, {
         career_path: formData.career_path,
         current_skills: formData.current_skills,
         experience_level: formData.experience_level,
@@ -447,7 +448,7 @@ const LearningPathPage = () => {
       </div>
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes fadeIn {
           from {
             opacity: 0;

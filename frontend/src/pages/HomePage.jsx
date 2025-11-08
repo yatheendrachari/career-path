@@ -17,7 +17,8 @@ const HomePage = () => {
       setError(null);
 
       try {
-        const response = await axios.get('http://localhost:8000/careers');
+        const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+        const response = await axios.get(`${API_BASE_URL}/careers`);
         setTopCareers(response.data.careers || response.data || []);
       } catch (err) {
         console.error('Error fetching careers:', err);

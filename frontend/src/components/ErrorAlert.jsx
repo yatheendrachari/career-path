@@ -144,7 +144,7 @@ const ErrorAlert = ({
       )}
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes slideDown {
           from {
             opacity: 0;

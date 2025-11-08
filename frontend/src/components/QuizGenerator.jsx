@@ -346,7 +346,7 @@ const QuizGenerator = ({ onComplete }) => {
       </div>
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes slideInRight {
           from {
             opacity: 0;

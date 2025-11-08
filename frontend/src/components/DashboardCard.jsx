@@ -179,7 +179,7 @@ const DashboardCard = ({
       </div>
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes fadeOut {
           from {
             opacity: 1;

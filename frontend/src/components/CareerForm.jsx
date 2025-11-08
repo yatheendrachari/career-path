@@ -30,7 +30,7 @@ const CareerForm = ({ onPredictionSuccess, initialData = {} }) => {
   const educationLevels = ['Bachelor', 'Master', 'PhD'];
 
   // API base URL
-  const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+  const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
 
   // Handle simple input changes
   const handleChange = (e) => {
@@ -491,7 +491,7 @@ const CareerForm = ({ onPredictionSuccess, initialData = {} }) => {
       )}
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes slideDown {
           from {
             opacity: 0;

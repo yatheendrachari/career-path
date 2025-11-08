@@ -31,13 +31,15 @@ const DashboardPage = () => {
           }
         };
 
+        const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+
         // Fetch user profile
-        const userResponse = await axios.get('http://localhost:8000/auth/me', config);
+        const userResponse = await axios.get(`${API_BASE_URL}/auth/me`, config);
         setUserData(userResponse.data);
 
         // Fetch career prediction history
         try {
-          const careerResponse = await axios.get('http://localhost:8000/career-history', config);
+          const careerResponse = await axios.get(`${API_BASE_URL}/career-history`, config);
           setCareerHistory(careerResponse.data.history || careerResponse.data || []);
         } catch (err) {
           console.log('No career history found');
@@ -46,7 +48,7 @@ const DashboardPage = () => {
 
         // Fetch learning path history
         try {
-          const pathResponse = await axios.get('http://localhost:8000/learning-path-history', config);
+          const pathResponse = await axios.get(`${API_BASE_URL}/learning-path-history`, config);
           setLearningPaths(pathResponse.data.paths || pathResponse.data || []);
         } catch (err) {
           console.log('No learning paths found');
@@ -79,7 +81,8 @@ const DashboardPage = () => {
     }
 
     try {
-      await axios.delete(`http://localhost:8000/career-history/${careerId}`, {
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+      await axios.delete(`${API_BASE_URL}/career-history/${careerId}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
 
@@ -97,7 +100,8 @@ const DashboardPage = () => {
     }
 
     try {
-      await axios.delete(`http://localhost:8000/learning-path-history/${pathId}`, {
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+      await axios.delete(`${API_BASE_URL}/learning-path-history/${pathId}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
 
@@ -417,7 +421,7 @@ const DashboardPage = () => {
       </div>
 
       {/* Styles */}
-      <style jsx>{`
+      <style>{`
         .line-clamp-2 {
           display: -webkit-box;
           -webkit-line-clamp: 2;

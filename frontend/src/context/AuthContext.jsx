@@ -21,7 +21,7 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   // API base URL
-  const API_BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+  const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3000/api";
 
 
   // Setup axios interceptor for 401 errors (token expiry)
@@ -77,11 +77,12 @@ export const AuthProvider = ({ children }) => {
         }
       });
 
-      setUser(response.data);
+      const userData = response.data.user || response.data;
+      setUser(userData);
       setIsAuthenticated(true);
 
       // Update localStorage with fresh user data
-      localStorage.setItem('user', JSON.stringify(response.data));
+      localStorage.setItem('user', JSON.stringify(userData));
 
     } catch (error) {
       console.error('Token verification failed:', error);
@@ -195,10 +196,11 @@ export const AuthProvider = ({ children }) => {
         }
       });
 
-      setUser(response.data);
-      localStorage.setItem('user', JSON.stringify(response.data));
+      const userData = response.data.user || response.data;
+      setUser(userData);
+      localStorage.setItem('user', JSON.stringify(userData));
 
-      return { success: true, user: response.data };
+      return { success: true, user: userData };
 
     } catch (error) {
       console.error('Failed to refresh user:', error);

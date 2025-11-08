@@ -126,7 +126,8 @@ const CareerPathPage = () => {
     setErrors({});
 
     try {
-      const response = await axios.post('http://localhost:8000/predict', {
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+      const response = await axios.post(`${API_BASE_URL}/predict`, {
         education: formData.education,
         years_experience: Number(formData.years_experience),
         skills: formData.skills,
@@ -424,7 +425,7 @@ const CareerPathPage = () => {
       </div>
 
       {/* Animations */}
-      <style jsx>{`
+      <style>{`
         @keyframes fadeIn {
           from {
             opacity: 0;
