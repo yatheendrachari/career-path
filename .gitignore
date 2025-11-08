@@ -1,0 +1,132 @@
+# ==========================================================
+# 🔹 Python / FastAPI Backend
+# ==========================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# Environment variables
+*.env
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs and debug
+*.log
+logs/
+debug.log
+
+# Local DB / cache
+*.sqlite3
+*.db
+instance/
+db.sqlite3
+
+# VS Code settings
+.vscode/
+__pypackages__/
+
+# ==========================================================
+# 🔹 Node / React + Vite Frontend
+# ==========================================================
+
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ==========================================================
+# 🔹 Other General Ignore Patterns
+# ==========================================================
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+
+# JetBrains
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ==========================================================
+# 🔹 Build & Output Folders
+# ==========================================================
+
+frontend/dist/
+frontend/node_modules/
+backend/__pycache__/
+backend/venv/
+backend/.env

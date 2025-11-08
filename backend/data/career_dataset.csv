@@ -1,0 +1,1027 @@
+education,skills,interests,certifications_count,career
+Master,"React,JavaScript,API Development,Data Structures,Java,Algorithms,Git,AWS","Problem Solving,Mobile Apps",0,Software Engineer
+Master,"Risk Assessment,Python,Penetration Testing,SIEM,Network Security,Firewalls,Cryptography,Linux",Ethical Hacking,1,Cybersecurity Analyst
+Bachelor,"Ethical Hacking,Risk Assessment,Linux,SIEM,Cryptography,Penetration Testing",Risk Management,1,Cybersecurity Analyst
+Bachelor,"User Research,Prototyping,Usability Testing,Figma,Design Thinking,Adobe XD",Visual Design,2,UX/UI Designer
+Bachelor,"Scrum,Product Strategy,Roadmap Planning,Stakeholder Management,User Research,Leadership","Product Development,Strategy",3,Product Manager
+Master,"Data Visualization,Tableau,Python,NumPy,SQL,Statistics,TensorFlow","AI,Statistics,Data Analysis",0,Data Scientist
+Master,"Risk Assessment,Linux,Cryptography,Penetration Testing,Python,SIEM,Firewalls,Network Security","Risk Management,Security",1,Cybersecurity Analyst
+Bachelor,"Risk Assessment,Ethical Hacking,Network Security,Penetration Testing,Python","Risk Management,Security,Network Protection",3,Cybersecurity Analyst
+Bachelor,"Algorithms,C++,Data Structures,React,Node.js","Web Development,Problem Solving",1,Software Engineer
+PhD,"PyTorch,Deep Learning,Statistics,R,TensorFlow,SQL",Statistics,0,Data Scientist
+Master,"Python,Cryptography,SIEM,Risk Assessment,Firewalls",Security,0,Cybersecurity Analyst
+Bachelor,"Agile,Leadership,Stakeholder Management,Data Analysis,User Research,SQL","Strategy,Innovation",0,Product Manager
+Master,"Data Analysis,Scrum,Stakeholder Management,Roadmap Planning,SQL,Agile,User Research,Product Strategy,Leadership",Leadership,1,Product Manager
+Bachelor,"C++,AWS,Docker,API Development,Python","Software Development,Problem Solving,Web Development",1,Software Engineer
+Bachelor,"Data Visualization,NumPy,Deep Learning,TensorFlow,Tableau,SQL,Statistics,Pandas,R","AI,Statistics",2,Data Scientist
+Bachelor,"Python,Linux,Azure,Ansible,CI/CD,AWS","Automation,Cloud Computing",2,DevOps Engineer
+PhD,"Data Visualization,Deep Learning,TensorFlow,PyTorch,Tableau,Machine Learning","AI,Machine Learning,Data Analysis",1,Data Scientist
+Bachelor,"Wireframing,Prototyping,User Research,Usability Testing,Figma,CSS,HTML,Adobe XD,Design Thinking",User Experience,0,UX/UI Designer
+Master,"Python,Data Structures,React,AWS,API Development,Node.js,Git,JavaScript,C++,Docker",Web Development,0,Software Engineer
+Bachelor,"Cryptography,Firewalls,Penetration Testing,SIEM,Network Security,Ethical Hacking,Risk Assessment","Risk Management,Ethical Hacking,Network Protection",1,Cybersecurity Analyst
+Master,"Penetration Testing,Python,Network Security,Ethical Hacking,Risk Assessment,Firewalls,Cryptography","Risk Management,Ethical Hacking",1,Cybersecurity Analyst
+Master,"Penetration Testing,Ethical Hacking,Firewalls,Cryptography,Linux,Network Security",Security,1,Cybersecurity Analyst
+Bachelor,"Prototyping,Adobe XD,Design Thinking,User Research,Usability Testing,Wireframing","Product Development,User Experience,Visual Design",2,UX/UI Designer
+Bachelor,"Product Strategy,Leadership,Agile,Scrum,SQL,Data Analysis","Leadership,Product Development,Strategy",1,Product Manager
+Bachelor,"CI/CD,Git,Bash,Python,Docker,Kubernetes","Cloud Computing,System Administration,Automation",0,DevOps Engineer
+Master,"Product Strategy,Scrum,User Research,Data Analysis,Leadership,Roadmap Planning,SQL,Agile,Stakeholder Management","Product Development,Strategy,Leadership",0,Product Manager
+Bachelor,"Wireframing,Design Thinking,Prototyping,User Research,Usability Testing,Adobe XD","User Experience,Design,Visual Design",2,UX/UI Designer
+Master,"Roadmap Planning,Leadership,SQL,Data Analysis,Product Strategy,User Research,Scrum,Agile,Stakeholder Management","Product Development,Innovation",2,Product Manager
+Bachelor,"Data Structures,C++,API Development,JavaScript,SQL","Problem Solving,Software Development,Web Development",0,Software Engineer
+Master,"CI/CD,Docker,Azure,Kubernetes,Terraform,Jenkins,Git","System Administration,Cloud Computing,Automation",1,DevOps Engineer
+Master,"Ethical Hacking,Cryptography,Risk Assessment,Python,SIEM,Firewalls,Network Security,Linux,Penetration Testing","Ethical Hacking,Network Protection,Risk Management",1,Cybersecurity Analyst
+Bachelor,"Bash,Azure,Ansible,Jenkins,Docker,CI/CD,Kubernetes,AWS,Python","Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"SQL,Git,C++,Algorithms,Python,React,JavaScript,Data Structures","Problem Solving,Web Development,Software Development",1,Software Engineer
+Bachelor,"Bash,Linux,Jenkins,Azure,Git,Ansible",System Administration,1,DevOps Engineer
+Bachelor,"Python,Data Visualization,TensorFlow,Statistics,Machine Learning,NumPy,Pandas","Research,Machine Learning",1,Data Scientist
+PhD,"Machine Learning,Tableau,Data Visualization,TensorFlow,Python,PyTorch,Deep Learning","Statistics,Machine Learning,AI",1,Data Scientist
+Bachelor,"Git,API Development,Data Structures,Algorithms,Docker,Python,AWS","Problem Solving,Mobile Apps",1,Software Engineer
+Bachelor,"Python,NumPy,R,SQL,TensorFlow,Deep Learning","Research,Machine Learning",0,Data Scientist
+Bachelor,"Kubernetes,AWS,Git,Python,Terraform,Azure",Cloud Computing,1,DevOps Engineer
+Master,"Bash,Python,Docker,Kubernetes,AWS,Azure,Git","System Administration,Infrastructure",0,DevOps Engineer
+Bachelor,"Network Security,Ethical Hacking,Risk Assessment,Python,Firewalls,Linux,SIEM,Penetration Testing,Cryptography",Security,0,Cybersecurity Analyst
+Master,"Statistics,Python,PyTorch,SQL,Machine Learning,R,Data Visualization,TensorFlow","Statistics,Data Analysis,Research",0,Data Scientist
+Bachelor,"Linux,Bash,Azure,Python,Jenkins,Docker,AWS,Git",Automation,2,DevOps Engineer
+PhD,"Machine Learning,SQL,NumPy,Python,Deep Learning,Tableau,Data Visualization","Research,AI",3,Data Scientist
+Master,"JavaScript,C++,Node.js,API Development,Algorithms,SQL","Web Development,Mobile Apps,Software Development",2,Software Engineer
+Bachelor,"Cryptography,Network Security,Python,Ethical Hacking,Linux,Penetration Testing","Risk Management,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"Usability Testing,HTML,CSS,User Research,Adobe XD","Visual Design,User Experience,Design",3,UX/UI Designer
+Bachelor,"Linux,AWS,Jenkins,Azure,CI/CD,Git",Infrastructure,0,DevOps Engineer
+Bachelor,"Stakeholder Management,Leadership,Scrum,Data Analysis,User Research,Roadmap Planning,Agile,SQL","Leadership,Innovation,Strategy",1,Product Manager
+PhD,"Python,Machine Learning,Deep Learning,Pandas,NumPy,R,TensorFlow,Data Visualization,Tableau,Statistics","Data Analysis,Statistics,Research",0,Data Scientist
+Master,"SIEM,Firewalls,Risk Assessment,Network Security,Python,Penetration Testing,Linux","Network Protection,Ethical Hacking,Risk Management",0,Cybersecurity Analyst
+Master,"Penetration Testing,Cryptography,SIEM,Ethical Hacking,Firewalls","Ethical Hacking,Network Protection",1,Cybersecurity Analyst
+Master,"API Development,React,C++,SQL,Docker","Mobile Apps,Web Development,Problem Solving",2,Software Engineer
+Bachelor,"API Development,Docker,JavaScript,Git,Algorithms,Data Structures,AWS,React",Web Development,0,Software Engineer
+Bachelor,"Bash,CI/CD,Azure,AWS,Git,Docker,Ansible,Linux",System Administration,2,DevOps Engineer
+Bachelor,"Agile,Leadership,Roadmap Planning,User Research,Data Analysis,SQL","Leadership,Strategy",1,Product Manager
+Bachelor,"Terraform,Linux,CI/CD,Docker,Ansible,Azure,Python,Jenkins,AWS","Infrastructure,System Administration",1,DevOps Engineer
+Bachelor,"Bash,Terraform,AWS,Kubernetes,Docker,Jenkins,Ansible,Linux,CI/CD","Automation,Cloud Computing",1,DevOps Engineer
+Bachelor,"User Research,Prototyping,CSS,Usability Testing,Adobe XD","Design,Visual Design,User Experience",1,UX/UI Designer
+Bachelor,"Docker,Python,JavaScript,API Development,AWS,Node.js,Java,Algorithms,SQL,React",Web Development,0,Software Engineer
+Bachelor,"Docker,JavaScript,Node.js,Algorithms,AWS,C++,Python,Java",Software Development,2,Software Engineer
+Master,"TensorFlow,R,Machine Learning,SQL,Pandas,Tableau,PyTorch,NumPy","Data Analysis,Research",1,Data Scientist
+Bachelor,"HTML,Prototyping,CSS,Figma,Usability Testing,Wireframing",Product Development,3,UX/UI Designer
+Bachelor,"AWS,Docker,JavaScript,Java,Python","Mobile Apps,Web Development,Software Development",3,Software Engineer
+Bachelor,"AWS,SQL,JavaScript,React,Node.js",Web Development,1,Software Engineer
+Master,"Risk Assessment,Firewalls,Penetration Testing,Network Security,Cryptography","Network Protection,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Python,Cryptography,Penetration Testing,Ethical Hacking,SIEM,Firewalls,Risk Assessment,Network Security,Linux",Ethical Hacking,0,Cybersecurity Analyst
+Bachelor,"Docker,CI/CD,Kubernetes,Python,AWS,Jenkins,Git","Infrastructure,System Administration,Cloud Computing",2,DevOps Engineer
+Bachelor,"Figma,Usability Testing,HTML,User Research,Wireframing,Adobe XD","User Experience,Design,Product Development",0,UX/UI Designer
+PhD,"Pandas,Tableau,Statistics,NumPy,TensorFlow,Machine Learning,Deep Learning,Python,R,SQL",Data Analysis,0,Data Scientist
+Bachelor,"Prototyping,CSS,HTML,Figma,Wireframing,Usability Testing,Adobe XD",Design,3,UX/UI Designer
+PhD,"SQL,Data Visualization,NumPy,Machine Learning,R,PyTorch,Statistics,TensorFlow,Python","Statistics,AI",1,Data Scientist
+Bachelor,"Kubernetes,Python,Docker,Ansible,AWS,Linux,Git","Cloud Computing,Automation,Infrastructure",0,DevOps Engineer
+Bachelor,"Scrum,Agile,Leadership,Stakeholder Management,User Research,Product Strategy,SQL,Roadmap Planning",Innovation,0,Product Manager
+Master,"Leadership,Agile,Stakeholder Management,User Research,Scrum,SQL,Product Strategy","Leadership,Product Development,Strategy",0,Product Manager
+Bachelor,"Python,Java,React,Docker,Algorithms,AWS,Git,JavaScript,C++,Node.js",Problem Solving,1,Software Engineer
+Bachelor,"Wireframing,Design Thinking,Adobe XD,User Research,Figma,Usability Testing,CSS,Prototyping,HTML","Design,Product Development,User Experience",1,UX/UI Designer
+Master,"R,PyTorch,Machine Learning,TensorFlow,Python,Statistics,Tableau,SQL,Deep Learning,NumPy","AI,Data Analysis,Research",3,Data Scientist
+Master,"Scrum,Stakeholder Management,SQL,Data Analysis,Leadership,User Research,Agile","Product Development,Innovation",1,Product Manager
+Bachelor,"AWS,Java,JavaScript,Docker,Algorithms,Python","Mobile Apps,Web Development",0,Software Engineer
+Bachelor,"Ethical Hacking,Firewalls,Penetration Testing,Network Security,Linux,Cryptography",Risk Management,0,Cybersecurity Analyst
+Master,"TensorFlow,Pandas,Deep Learning,PyTorch,SQL,NumPy,Machine Learning,Tableau","AI,Machine Learning",2,Data Scientist
+Master,"Python,Docker,Kubernetes,Ansible,Terraform,CI/CD,Bash,Jenkins,Azure,Git","Infrastructure,Automation,Cloud Computing",3,DevOps Engineer
+Bachelor,"React,Git,JavaScript,API Development,Java,SQL,AWS,Algorithms,Docker,C++","Mobile Apps,Web Development",0,Software Engineer
+Master,"Python,Java,C++,SQL,React,AWS,Data Structures",Problem Solving,2,Software Engineer
+Bachelor,"Terraform,Python,Bash,Jenkins,Azure,Linux",Automation,2,DevOps Engineer
+Master,"SQL,Tableau,Statistics,R,TensorFlow,Python,NumPy,Pandas","Data Analysis,AI",1,Data Scientist
+PhD,"Data Visualization,PyTorch,R,Pandas,Python,TensorFlow,Machine Learning,Statistics","Data Analysis,Statistics",1,Data Scientist
+Bachelor,"Leadership,Product Strategy,User Research,Data Analysis,Stakeholder Management,Agile,Scrum,SQL,Roadmap Planning","Innovation,Leadership",2,Product Manager
+Master,"Tableau,Pandas,PyTorch,Python,Machine Learning,Statistics,Deep Learning,SQL,Data Visualization","Data Analysis,Research,Machine Learning",0,Data Scientist
+Master,"Git,Terraform,AWS,Azure,Linux,Jenkins,Ansible,Kubernetes,Bash,Python","Automation,Cloud Computing,System Administration",0,DevOps Engineer
+Bachelor,"CSS,Design Thinking,Adobe XD,HTML,Prototyping,Wireframing,User Research,Figma","Visual Design,User Experience",0,UX/UI Designer
+Bachelor,"Adobe XD,User Research,Prototyping,CSS,Figma,Design Thinking,Usability Testing,Wireframing","Design,Product Development,Visual Design",1,UX/UI Designer
+Bachelor,"Figma,HTML,Wireframing,CSS,Adobe XD,Usability Testing,User Research,Prototyping","Visual Design,Product Development,Design",1,UX/UI Designer
+Master,"Tableau,PyTorch,Pandas,R,Statistics,Python,SQL,Deep Learning",Machine Learning,1,Data Scientist
+Master,"Design Thinking,User Research,HTML,Prototyping,Adobe XD,Figma,CSS","User Experience,Product Development,Visual Design",0,UX/UI Designer
+PhD,"Machine Learning,NumPy,Python,Pandas,PyTorch,Tableau,TensorFlow,R,Statistics,SQL",Data Analysis,1,Data Scientist
+Bachelor,"SQL,Java,React,Data Structures,JavaScript,Git","Web Development,Software Development,Problem Solving",2,Software Engineer
+Bachelor,"Usability Testing,HTML,Figma,Adobe XD,CSS,User Research","User Experience,Visual Design,Product Development",2,UX/UI Designer
+Bachelor,"API Development,Node.js,React,JavaScript,AWS",Software Development,1,Software Engineer
+Bachelor,"Roadmap Planning,Product Strategy,Agile,Data Analysis,SQL,Stakeholder Management,Scrum,Leadership,User Research",Strategy,1,Product Manager
+Bachelor,"Statistics,R,SQL,Pandas,TensorFlow,Data Visualization,Python,Tableau,NumPy","Research,AI,Statistics",1,Data Scientist
+Master,"Data Analysis,Product Strategy,User Research,Leadership,Agile,SQL,Roadmap Planning,Stakeholder Management",Product Development,1,Product Manager
+Bachelor,"Python,Network Security,Firewalls,SIEM,Penetration Testing,Risk Assessment,Ethical Hacking","Network Protection,Risk Management,Ethical Hacking",1,Cybersecurity Analyst
+Master,"Prototyping,Wireframing,Design Thinking,Usability Testing,Adobe XD","Design,Product Development",1,UX/UI Designer
+Master,"AWS,Data Structures,API Development,SQL,Java,Git,JavaScript,Python,Docker,C++","Web Development,Software Development",1,Software Engineer
+Bachelor,"Python,Cryptography,Firewalls,SIEM,Penetration Testing,Risk Assessment,Ethical Hacking,Network Security","Security,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Risk Assessment,Network Security,Penetration Testing,Ethical Hacking,SIEM,Cryptography",Risk Management,0,Cybersecurity Analyst
+Master,"Docker,Bash,Azure,Ansible,Python,Jenkins,Git,Kubernetes","Infrastructure,Automation",0,DevOps Engineer
+Master,"Penetration Testing,Ethical Hacking,Python,Linux,Cryptography,Firewalls,Risk Assessment,Network Security,SIEM","Risk Management,Security",3,Cybersecurity Analyst
+Bachelor,"Data Structures,Docker,Java,SQL,C++,Node.js,API Development,JavaScript,React","Mobile Apps,Problem Solving",0,Software Engineer
+Master,"Wireframing,HTML,User Research,Prototyping,CSS,Design Thinking,Figma,Usability Testing","Design,User Experience,Product Development",0,UX/UI Designer
+Master,"Scrum,User Research,Agile,Data Analysis,Leadership,Roadmap Planning,SQL,Product Strategy",Product Development,0,Product Manager
+PhD,"Pandas,TensorFlow,NumPy,Python,R,Machine Learning","AI,Statistics",1,Data Scientist
+Bachelor,"Wireframing,User Research,HTML,Usability Testing,Figma,Design Thinking,Prototyping",Design,1,UX/UI Designer
+Bachelor,"Java,API Development,AWS,Git,JavaScript","Mobile Apps,Software Development,Problem Solving",2,Software Engineer
+Bachelor,"Python,Ansible,Jenkins,Git,Bash,Docker","Infrastructure,Automation",0,DevOps Engineer
+Bachelor,"Agile,Product Strategy,Roadmap Planning,User Research,Leadership,Scrum",Strategy,0,Product Manager
+Master,"Design Thinking,Adobe XD,Wireframing,User Research,HTML,Usability Testing,Figma,Prototyping","User Experience,Visual Design,Design",0,UX/UI Designer
+Master,"R,Machine Learning,Data Visualization,TensorFlow,Tableau,NumPy,Statistics,SQL,PyTorch","Machine Learning,AI",0,Data Scientist
+Bachelor,"Adobe XD,CSS,Design Thinking,User Research,Wireframing,Figma,Usability Testing,Prototyping,HTML","Product Development,Visual Design,Design",0,UX/UI Designer
+Bachelor,"Terraform,CI/CD,Bash,Kubernetes,Jenkins,Linux","System Administration,Cloud Computing,Infrastructure",2,DevOps Engineer
+Bachelor,"Java,React,Algorithms,C++,JavaScript,Docker,Node.js","Web Development,Problem Solving,Software Development",2,Software Engineer
+Bachelor,"Roadmap Planning,User Research,SQL,Scrum,Data Analysis,Leadership","Leadership,Strategy",0,Product Manager
+Bachelor,"User Research,Data Analysis,Scrum,Product Strategy,Leadership,SQL","Innovation,Leadership,Strategy",0,Product Manager
+Bachelor,"User Research,Figma,CSS,Adobe XD,Usability Testing",User Experience,2,UX/UI Designer
+Bachelor,"Java,Git,API Development,JavaScript,C++,Data Structures,Algorithms,Node.js,Python,AWS","Problem Solving,Mobile Apps",3,Software Engineer
+Bachelor,"User Research,CSS,Wireframing,Adobe XD,Prototyping","Design,Product Development",1,UX/UI Designer
+Bachelor,"SIEM,Network Security,Risk Assessment,Penetration Testing,Linux,Firewalls,Cryptography","Network Protection,Security",1,Cybersecurity Analyst
+Bachelor,"Python,Ethical Hacking,Firewalls,Penetration Testing,Linux","Risk Management,Network Protection,Ethical Hacking",1,Cybersecurity Analyst
+Master,"AWS,JavaScript,Data Structures,Java,SQL,API Development,Node.js,React,Docker,C++","Mobile Apps,Web Development",1,Software Engineer
+Bachelor,"Adobe XD,Wireframing,Design Thinking,Figma,User Research,HTML","Product Development,User Experience",1,UX/UI Designer
+Bachelor,"Ethical Hacking,Cryptography,Linux,Penetration Testing,Network Security,Firewalls,Risk Assessment,SIEM",Risk Management,2,Cybersecurity Analyst
+Bachelor,"Python,Kubernetes,Git,CI/CD,AWS,Terraform,Linux",Cloud Computing,1,DevOps Engineer
+Bachelor,"Prototyping,Design Thinking,Figma,HTML,Adobe XD,Usability Testing","Product Development,Design",0,UX/UI Designer
+Master,"Data Visualization,Machine Learning,Deep Learning,R,NumPy,SQL,Tableau,Python,PyTorch",AI,3,Data Scientist
+Master,"Git,Docker,Python,Azure,Jenkins,Ansible,Linux,CI/CD","Automation,Infrastructure,Cloud Computing",2,DevOps Engineer
+Master,"Scrum,User Research,Roadmap Planning,Stakeholder Management,Product Strategy,Data Analysis,Leadership","Strategy,Innovation,Leadership",2,Product Manager
+Bachelor,"Terraform,Git,Linux,CI/CD,Jenkins,Kubernetes,Python,Bash,Azure","Infrastructure,Automation,Cloud Computing",3,DevOps Engineer
+Bachelor,"Scrum,Roadmap Planning,Product Strategy,Agile,Stakeholder Management,User Research,Data Analysis,SQL,Leadership","Leadership,Strategy",1,Product Manager
+Bachelor,"React,Data Structures,Java,C++,Python,API Development,Docker,Git","Software Development,Problem Solving,Web Development",1,Software Engineer
+Master,"Agile,SQL,Scrum,User Research,Roadmap Planning,Leadership","Innovation,Product Development,Strategy",0,Product Manager
+Bachelor,"Leadership,Agile,Stakeholder Management,User Research,Roadmap Planning,SQL","Leadership,Innovation",0,Product Manager
+Bachelor,"Python,Data Structures,C++,Algorithms,AWS,API Development,Git,Java,JavaScript","Problem Solving,Web Development",0,Software Engineer
+Bachelor,"CI/CD,Terraform,Bash,Python,Git,Azure,Ansible,Jenkins,Kubernetes",Infrastructure,1,DevOps Engineer
+Master,"Docker,Data Structures,SQL,Java,JavaScript,Git,React,AWS","Mobile Apps,Web Development",1,Software Engineer
+Master,"Leadership,Stakeholder Management,User Research,Scrum,Product Strategy,SQL,Roadmap Planning,Data Analysis,Agile",Innovation,0,Product Manager
+Bachelor,"Stakeholder Management,Product Strategy,Data Analysis,Leadership,Scrum,Agile","Innovation,Strategy,Leadership",0,Product Manager
+Master,"CSS,User Research,Usability Testing,Figma,HTML,Design Thinking,Adobe XD","Design,Product Development,User Experience",0,UX/UI Designer
+Bachelor,"Bash,Kubernetes,AWS,Python,Docker,Jenkins,Azure,Git,Ansible","Automation,Cloud Computing",2,DevOps Engineer
+Master,"Terraform,Docker,AWS,Bash,CI/CD,Jenkins,Python,Git,Ansible,Linux","Cloud Computing,Automation",0,DevOps Engineer
+Bachelor,"Agile,Stakeholder Management,Data Analysis,Product Strategy,Roadmap Planning,User Research,Leadership,SQL",Innovation,0,Product Manager
+Bachelor,"Design Thinking,Figma,Wireframing,HTML,Adobe XD","Visual Design,User Experience,Product Development",1,UX/UI Designer
+Master,"R,Statistics,Python,TensorFlow,Tableau,Machine Learning,SQL,Pandas,PyTorch,Data Visualization","Machine Learning,AI,Data Analysis",0,Data Scientist
+Bachelor,"Prototyping,Figma,Usability Testing,User Research,Wireframing,Design Thinking,HTML","Product Development,User Experience",0,UX/UI Designer
+Bachelor,"Linux,Python,Penetration Testing,Firewalls,Network Security,Ethical Hacking",Risk Management,1,Cybersecurity Analyst
+Bachelor,"Adobe XD,Design Thinking,HTML,Usability Testing,CSS,Figma,Wireframing,User Research,Prototyping",Design,3,UX/UI Designer
+Bachelor,"Node.js,Algorithms,API Development,Data Structures,C++,Java",Mobile Apps,2,Software Engineer
+Bachelor,"Network Security,Penetration Testing,Firewalls,Python,Linux,SIEM,Risk Assessment,Cryptography","Network Protection,Security,Ethical Hacking",1,Cybersecurity Analyst
+Master,"Docker,SQL,AWS,API Development,JavaScript","Problem Solving,Mobile Apps,Web Development",1,Software Engineer
+Master,"SIEM,Cryptography,Penetration Testing,Ethical Hacking,Risk Assessment,Linux,Python","Ethical Hacking,Security",0,Cybersecurity Analyst
+Master,"Design Thinking,Usability Testing,Adobe XD,Wireframing,Figma,Prototyping,User Research","Design,Product Development",1,UX/UI Designer
+Master,"Git,Python,Ansible,Terraform,AWS,Azure,Docker",System Administration,0,DevOps Engineer
+Master,"API Development,AWS,JavaScript,Algorithms,Java,Git,Python","Web Development,Problem Solving",2,Software Engineer
+Master,"Pandas,Deep Learning,Data Visualization,Python,NumPy,Machine Learning,TensorFlow,SQL,PyTorch","Research,AI",1,Data Scientist
+Bachelor,"C++,SQL,Java,Python,Data Structures,JavaScript,Node.js,API Development,Git","Software Development,Web Development",0,Software Engineer
+Master,"Deep Learning,Machine Learning,SQL,Data Visualization,PyTorch,TensorFlow,Tableau,Statistics","Machine Learning,Statistics",1,Data Scientist
+Master,"Docker,Git,Kubernetes,Jenkins,Bash,Linux,CI/CD,AWS","System Administration,Automation",3,DevOps Engineer
+Bachelor,"SQL,Agile,User Research,Leadership,Scrum,Roadmap Planning","Strategy,Product Development",1,Product Manager
+Master,"Linux,Cryptography,Python,Ethical Hacking,Firewalls",Risk Management,1,Cybersecurity Analyst
+Master,"Network Security,SIEM,Linux,Firewalls,Ethical Hacking","Security,Risk Management",0,Cybersecurity Analyst
+Master,"SQL,Deep Learning,PyTorch,TensorFlow,Tableau,NumPy,Statistics,Pandas,Python,Data Visualization","AI,Data Analysis",1,Data Scientist
+Master,"Data Visualization,Python,SQL,Machine Learning,Statistics,Tableau,Pandas,Deep Learning,R,TensorFlow",Research,1,Data Scientist
+Bachelor,"AWS,SQL,Python,JavaScript,API Development,C++,Node.js,React,Docker","Mobile Apps,Web Development",1,Software Engineer
+Bachelor,"Scrum,Leadership,Data Analysis,Stakeholder Management,User Research,Product Strategy,Roadmap Planning,SQL,Agile","Strategy,Leadership",0,Product Manager
+Bachelor,"SIEM,Cryptography,Python,Ethical Hacking,Firewalls,Linux,Network Security,Penetration Testing,Risk Assessment",Ethical Hacking,2,Cybersecurity Analyst
+Bachelor,"SQL,Algorithms,Git,Docker,AWS,Java","Web Development,Mobile Apps,Software Development",0,Software Engineer
+Bachelor,"Python,Data Structures,Git,AWS,C++,Java,React,Docker","Mobile Apps,Problem Solving,Software Development",0,Software Engineer
+Master,"R,PyTorch,Pandas,TensorFlow,Deep Learning,NumPy,Machine Learning,Python,SQL","Machine Learning,Research",1,Data Scientist
+Master,"AWS,C++,SQL,Algorithms,Git,Docker,Python,JavaScript,Node.js,Data Structures",Problem Solving,0,Software Engineer
+Bachelor,"Docker,C++,Algorithms,SQL,Data Structures,Python,AWS,Node.js,API Development,Git","Problem Solving,Web Development",0,Software Engineer
+Bachelor,"Tableau,Machine Learning,TensorFlow,Deep Learning,Data Visualization,Statistics,R,Python","Data Analysis,AI,Research",1,Data Scientist
+PhD,"Tableau,Python,Machine Learning,R,NumPy,Pandas,Statistics,SQL,Data Visualization","Statistics,AI",1,Data Scientist
+Bachelor,"Docker,API Development,Git,C++,Java",Problem Solving,0,Software Engineer
+Master,"Git,JavaScript,SQL,Python,Java,Data Structures,API Development","Software Development,Mobile Apps",0,Software Engineer
+Bachelor,"Product Strategy,User Research,Leadership,Roadmap Planning,Scrum,Stakeholder Management","Leadership,Product Development,Strategy",0,Product Manager
+Master,"C++,Data Structures,Git,React,Docker,Algorithms,AWS,JavaScript,Java,SQL","Mobile Apps,Problem Solving,Software Development",1,Software Engineer
+Bachelor,"AWS,Python,Terraform,Linux,Kubernetes,Docker,CI/CD,Ansible","Cloud Computing,System Administration",1,DevOps Engineer
+Bachelor,"Jenkins,Ansible,Bash,CI/CD,Azure,Linux,Python,Kubernetes,Docker,Git","Infrastructure,Cloud Computing",2,DevOps Engineer
+Master,"Scrum,User Research,Product Strategy,Agile,Roadmap Planning,Stakeholder Management,Leadership,SQL,Data Analysis",Innovation,0,Product Manager
+Master,"Design Thinking,Figma,Wireframing,Prototyping,Adobe XD,HTML,Usability Testing","Design,Visual Design,User Experience",0,UX/UI Designer
+Bachelor,"Python,Firewalls,Network Security,Ethical Hacking,Penetration Testing","Security,Network Protection",1,Cybersecurity Analyst
+Master,"SQL,Python,Tableau,Deep Learning,Statistics,NumPy",Research,1,Data Scientist
+Bachelor,"Data Analysis,User Research,Scrum,Stakeholder Management,Roadmap Planning,Product Strategy,Leadership",Strategy,1,Product Manager
+Bachelor,"Roadmap Planning,Scrum,Product Strategy,User Research,Leadership,Stakeholder Management,SQL","Product Development,Innovation,Strategy",0,Product Manager
+PhD,"Python,SQL,Data Visualization,Tableau,Pandas,Machine Learning,PyTorch,Deep Learning",Data Analysis,2,Data Scientist
+Master,"Kubernetes,CI/CD,Azure,AWS,Terraform,Git,Linux,Docker,Jenkins",Automation,2,DevOps Engineer
+Master,"Data Visualization,Deep Learning,NumPy,Statistics,R,Python,Machine Learning","Research,Machine Learning,AI",0,Data Scientist
+Master,"API Development,SQL,Node.js,Data Structures,C++,Docker",Web Development,0,Software Engineer
+Bachelor,"Docker,Git,C++,Data Structures,JavaScript,React","Mobile Apps,Web Development,Problem Solving",0,Software Engineer
+Bachelor,"HTML,CSS,Design Thinking,Prototyping,Usability Testing,User Research,Adobe XD",Design,3,UX/UI Designer
+Master,"R,TensorFlow,NumPy,Pandas,Statistics,PyTorch,Python,Tableau",Research,0,Data Scientist
+Master,"Leadership,Scrum,Product Strategy,Agile,Stakeholder Management,Roadmap Planning,User Research,SQL","Innovation,Leadership,Strategy",2,Product Manager
+Bachelor,"Linux,Terraform,Ansible,Jenkins,Bash,Kubernetes","Automation,System Administration",1,DevOps Engineer
+Bachelor,"User Research,Prototyping,HTML,CSS,Figma,Usability Testing,Design Thinking,Adobe XD,Wireframing",Product Development,1,UX/UI Designer
+Bachelor,"User Research,Wireframing,CSS,Prototyping,Adobe XD,Figma,Usability Testing,HTML",User Experience,2,UX/UI Designer
+Bachelor,"Linux,Terraform,Bash,CI/CD,AWS,Azure,Jenkins","Infrastructure,Automation,System Administration",2,DevOps Engineer
+PhD,"Data Visualization,Tableau,TensorFlow,SQL,Statistics,Pandas,R,PyTorch,NumPy,Machine Learning","AI,Research",2,Data Scientist
+Bachelor,"AWS,Algorithms,Node.js,SQL,Docker,Python,API Development,C++","Software Development,Web Development",0,Software Engineer
+Master,"Git,Azure,Terraform,Bash,Linux,CI/CD,Python,Kubernetes,AWS,Jenkins","Automation,System Administration,Infrastructure",0,DevOps Engineer
+Bachelor,"Usability Testing,Adobe XD,Prototyping,HTML,User Research,Design Thinking,Figma,Wireframing","Visual Design,User Experience,Design",1,UX/UI Designer
+Master,"Node.js,AWS,C++,Git,Docker,API Development,Python,SQL","Problem Solving,Web Development,Software Development",0,Software Engineer
+Bachelor,"Deep Learning,Statistics,R,Python,Tableau,Data Visualization",Statistics,0,Data Scientist
+Master,"Firewalls,Cryptography,Linux,Risk Assessment,Network Security,Penetration Testing",Network Protection,2,Cybersecurity Analyst
+Bachelor,"Usability Testing,CSS,Design Thinking,Wireframing,User Research,Prototyping,Figma,Adobe XD,HTML","Design,Product Development",2,UX/UI Designer
+Bachelor,"Linux,Git,Kubernetes,Docker,Ansible,Azure,Jenkins,Bash",System Administration,2,DevOps Engineer
+Master,"C++,Node.js,Java,AWS,Python,API Development,JavaScript,SQL,Git","Mobile Apps,Problem Solving,Web Development",1,Software Engineer
+Bachelor,"Stakeholder Management,Data Analysis,Roadmap Planning,SQL,Leadership,Product Strategy,Agile,Scrum","Strategy,Innovation,Leadership",0,Product Manager
+Bachelor,"Linux,CI/CD,Docker,Git,Python,Azure,Terraform,Bash,Ansible,AWS","Infrastructure,Automation,System Administration",0,DevOps Engineer
+Master,"AWS,Java,Node.js,C++,Data Structures,Git,Python,SQL","Web Development,Software Development,Problem Solving",2,Software Engineer
+Bachelor,"AWS,Kubernetes,Terraform,Linux,Python,Docker,Git,Azure,Ansible",Automation,1,DevOps Engineer
+Bachelor,"Terraform,Docker,Git,Kubernetes,Azure,AWS",Infrastructure,0,DevOps Engineer
+Bachelor,"Docker,React,Algorithms,Node.js,Git,AWS,API Development",Software Development,1,Software Engineer
+Bachelor,"Firewalls,Linux,SIEM,Cryptography,Penetration Testing","Security,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Scrum,Product Strategy,Stakeholder Management,Roadmap Planning,User Research,SQL,Leadership,Data Analysis",Strategy,0,Product Manager
+Bachelor,"HTML,Usability Testing,Figma,User Research,Adobe XD,Design Thinking,Wireframing","Visual Design,Design",2,UX/UI Designer
+Bachelor,"Python,Ethical Hacking,SIEM,Risk Assessment,Firewalls,Penetration Testing,Cryptography,Network Security,Linux","Network Protection,Ethical Hacking,Risk Management",1,Cybersecurity Analyst
+Bachelor,"Agile,Stakeholder Management,Product Strategy,Data Analysis,Scrum,Roadmap Planning,SQL,User Research,Leadership",Innovation,3,Product Manager
+Bachelor,"Prototyping,HTML,Design Thinking,User Research,Usability Testing,Wireframing,CSS,Adobe XD",User Experience,0,UX/UI Designer
+Master,"Design Thinking,HTML,CSS,Wireframing,Usability Testing","Design,Visual Design",0,UX/UI Designer
+Master,"Terraform,Docker,Linux,Ansible,Azure,Bash","Infrastructure,System Administration,Cloud Computing",3,DevOps Engineer
+Master,"R,SQL,Machine Learning,PyTorch,TensorFlow,Deep Learning,Pandas,NumPy","Data Analysis,Machine Learning",0,Data Scientist
+Bachelor,"SIEM,Firewalls,Network Security,Linux,Ethical Hacking,Python","Ethical Hacking,Risk Management,Security",0,Cybersecurity Analyst
+Bachelor,"SIEM,Network Security,Penetration Testing,Cryptography,Ethical Hacking","Network Protection,Risk Management,Security",1,Cybersecurity Analyst
+Bachelor,"Python,SQL,Algorithms,Node.js,Git,AWS","Web Development,Problem Solving",1,Software Engineer
+Bachelor,"Network Security,Linux,Cryptography,Penetration Testing,Python,Ethical Hacking",Network Protection,3,Cybersecurity Analyst
+Bachelor,"Linux,Ansible,Python,CI/CD,Git,Terraform,AWS,Bash",System Administration,0,DevOps Engineer
+PhD,"PyTorch,Python,SQL,NumPy,R,Statistics,Tableau,Data Visualization","Machine Learning,AI,Statistics",2,Data Scientist
+Master,"SQL,Scrum,Agile,Roadmap Planning,Data Analysis,Product Strategy,Stakeholder Management","Leadership,Strategy",1,Product Manager
+Bachelor,"CI/CD,Ansible,Kubernetes,Git,Jenkins,AWS,Docker,Linux","Automation,Infrastructure",0,DevOps Engineer
+Master,"Pandas,NumPy,Statistics,Deep Learning,Tableau,R","Statistics,Research,Data Analysis",1,Data Scientist
+Bachelor,"Java,JavaScript,SQL,Data Structures,Python","Web Development,Problem Solving,Mobile Apps",0,Software Engineer
+Master,"Node.js,Data Structures,Python,Git,Docker",Software Development,1,Software Engineer
+Master,"JavaScript,AWS,React,Docker,Python","Software Development,Web Development",1,Software Engineer
+Bachelor,"React,API Development,Node.js,AWS,Data Structures,C++,Java",Problem Solving,0,Software Engineer
+Master,"SQL,Java,API Development,AWS,Docker,JavaScript,Data Structures,Git,Python,Algorithms","Web Development,Problem Solving",1,Software Engineer
+Bachelor,"Data Analysis,Scrum,Stakeholder Management,Product Strategy,User Research,SQL,Roadmap Planning","Strategy,Leadership,Innovation",3,Product Manager
+Bachelor,"SIEM,Ethical Hacking,Python,Linux,Penetration Testing,Cryptography,Firewalls","Risk Management,Security",0,Cybersecurity Analyst
+Master,"Python,TensorFlow,PyTorch,Pandas,Data Visualization,Deep Learning,SQL,R,NumPy,Statistics","Statistics,Machine Learning",0,Data Scientist
+Bachelor,"Design Thinking,Wireframing,Adobe XD,User Research,Usability Testing,Figma,CSS",Design,2,UX/UI Designer
+Master,"Python,Statistics,Machine Learning,NumPy,PyTorch,SQL,R,Tableau","AI,Data Analysis",0,Data Scientist
+Master,"R,NumPy,TensorFlow,PyTorch,SQL,Data Visualization,Pandas,Deep Learning,Machine Learning",Research,0,Data Scientist
+Master,"Bash,Azure,Jenkins,Ansible,Docker,Linux,Git,Kubernetes,CI/CD,Python",Cloud Computing,0,DevOps Engineer
+Master,"Python,React,Docker,Git,Java",Problem Solving,1,Software Engineer
+Bachelor,"Design Thinking,User Research,HTML,Figma,CSS,Usability Testing,Wireframing,Prototyping","Visual Design,Design,Product Development",1,UX/UI Designer
+Master,"PyTorch,NumPy,Python,Pandas,Statistics,R,Data Visualization","Machine Learning,Research,AI",1,Data Scientist
+Bachelor,"Jenkins,Python,Git,CI/CD,Ansible,Kubernetes",Automation,2,DevOps Engineer
+Bachelor,"SQL,Stakeholder Management,Data Analysis,Scrum,Product Strategy,User Research,Agile,Roadmap Planning,Leadership","Innovation,Product Development,Strategy",0,Product Manager
+Bachelor,"Adobe XD,Wireframing,Usability Testing,Figma,User Research,HTML,Prototyping","User Experience,Visual Design",0,UX/UI Designer
+Master,"User Research,SQL,Data Analysis,Agile,Stakeholder Management,Scrum,Product Strategy,Roadmap Planning",Product Development,2,Product Manager
+Bachelor,"Terraform,Git,Bash,Jenkins,CI/CD,Linux","Infrastructure,Cloud Computing",0,DevOps Engineer
+Bachelor,"Figma,HTML,User Research,Design Thinking,CSS",Design,2,UX/UI Designer
+Bachelor,"Azure,Python,Kubernetes,Ansible,Git,Docker,CI/CD,Bash","Automation,Cloud Computing,System Administration",0,DevOps Engineer
+Bachelor,"Linux,CI/CD,Jenkins,Kubernetes,Python,Bash","Infrastructure,Automation,System Administration",0,DevOps Engineer
+PhD,"TensorFlow,Python,Machine Learning,R,Pandas,Statistics,NumPy,Deep Learning","Research,Machine Learning,Data Analysis",0,Data Scientist
+Bachelor,"Kubernetes,Jenkins,Python,Terraform,Azure,Docker,AWS",Infrastructure,1,DevOps Engineer
+Bachelor,"HTML,Figma,Adobe XD,Usability Testing,Wireframing,Design Thinking,CSS,Prototyping","Product Development,Design,User Experience",0,UX/UI Designer
+Master,"Leadership,User Research,Agile,SQL,Data Analysis,Scrum,Roadmap Planning,Product Strategy","Strategy,Innovation,Product Development",0,Product Manager
+Bachelor,"Python,Algorithms,JavaScript,Java,AWS,API Development,C++,SQL,Git","Mobile Apps,Web Development,Software Development",0,Software Engineer
+Bachelor,"Python,SIEM,Ethical Hacking,Firewalls,Network Security,Penetration Testing,Linux,Risk Assessment,Cryptography","Ethical Hacking,Security",2,Cybersecurity Analyst
+Master,"SQL,Python,Tableau,Machine Learning,TensorFlow,Statistics,Pandas,Data Visualization,NumPy",Data Analysis,0,Data Scientist
+Bachelor,"Linux,Cryptography,SIEM,Penetration Testing,Network Security,Ethical Hacking,Risk Assessment,Firewalls","Ethical Hacking,Network Protection",0,Cybersecurity Analyst
+Master,"Java,Git,JavaScript,Docker,C++,Python,React,Data Structures","Problem Solving,Web Development,Mobile Apps",0,Software Engineer
+Master,"Data Analysis,Roadmap Planning,Scrum,Agile,Stakeholder Management,Leadership","Innovation,Leadership",1,Product Manager
+Bachelor,"Roadmap Planning,Leadership,Stakeholder Management,Agile,Scrum,Data Analysis,SQL,User Research","Product Development,Strategy",0,Product Manager
+Bachelor,"CSS,Adobe XD,HTML,Prototyping,Usability Testing","Product Development,Visual Design",1,UX/UI Designer
+Bachelor,"AWS,Ansible,Linux,Terraform,Bash,Python",Cloud Computing,1,DevOps Engineer
+Master,"SIEM,Risk Assessment,Penetration Testing,Firewalls,Network Security","Risk Management,Network Protection,Ethical Hacking",2,Cybersecurity Analyst
+PhD,"TensorFlow,Pandas,PyTorch,Statistics,Machine Learning,Data Visualization,Deep Learning,Tableau,SQL",Data Analysis,2,Data Scientist
+Master,"R,PyTorch,Data Visualization,TensorFlow,SQL,Pandas,Statistics,Tableau,Machine Learning,Python","Research,Data Analysis",1,Data Scientist
+Bachelor,"Scrum,Product Strategy,Agile,Data Analysis,User Research,Stakeholder Management",Innovation,2,Product Manager
+Bachelor,"Scrum,Stakeholder Management,Data Analysis,Leadership,Roadmap Planning,Product Strategy,Agile,User Research,SQL",Innovation,0,Product Manager
+Bachelor,"Pandas,Statistics,Python,Machine Learning,Tableau,SQL,PyTorch,NumPy","AI,Data Analysis",1,Data Scientist
+Master,"Data Structures,Python,Node.js,Git,SQL,Algorithms,React,JavaScript","Web Development,Software Development,Mobile Apps",2,Software Engineer
+Bachelor,"Leadership,Stakeholder Management,Roadmap Planning,Data Analysis,User Research,Agile,SQL","Innovation,Strategy",1,Product Manager
+Bachelor,"Bash,AWS,Ansible,Azure,Kubernetes,Docker,Terraform","Infrastructure,System Administration,Cloud Computing",0,DevOps Engineer
+Master,"Agile,Data Analysis,User Research,Product Strategy,Leadership,Roadmap Planning","Strategy,Innovation",1,Product Manager
+Bachelor,"Algorithms,React,Node.js,Java,API Development,Data Structures,SQL,Git,C++",Software Development,0,Software Engineer
+Master,"Git,API Development,Node.js,Algorithms,JavaScript,Java,C++,Docker","Web Development,Problem Solving",0,Software Engineer
+Bachelor,"Agile,Leadership,Stakeholder Management,Data Analysis,SQL,Scrum,Product Strategy,Roadmap Planning,User Research","Innovation,Product Development",3,Product Manager
+Master,"Data Visualization,Statistics,Python,Pandas,Tableau,R,NumPy,TensorFlow","AI,Data Analysis,Statistics",1,Data Scientist
+Bachelor,"Stakeholder Management,Product Strategy,Agile,Scrum,Data Analysis,Leadership,SQL,User Research","Strategy,Product Development,Leadership",1,Product Manager
+Master,"SIEM,Firewalls,Python,Linux,Cryptography,Ethical Hacking","Network Protection,Risk Management,Security",1,Cybersecurity Analyst
+Bachelor,"JavaScript,Docker,Node.js,Java,SQL","Software Development,Problem Solving",0,Software Engineer
+Master,"AWS,Python,Git,API Development,C++",Web Development,1,Software Engineer
+Master,"Tableau,TensorFlow,Pandas,Python,PyTorch,Machine Learning,Statistics,SQL,NumPy,R",Research,3,Data Scientist
+Bachelor,"Git,Bash,AWS,Kubernetes,Terraform,Python,Azure","System Administration,Automation",1,DevOps Engineer
+Bachelor,"R,NumPy,SQL,Statistics,Tableau,Machine Learning,Pandas,Data Visualization","Data Analysis,Research",1,Data Scientist
+Bachelor,"Python,Linux,Cryptography,Penetration Testing,SIEM,Risk Assessment,Ethical Hacking,Network Security,Firewalls","Security,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Penetration Testing,Cryptography,Python,Network Security,Firewalls,SIEM,Ethical Hacking,Linux",Risk Management,2,Cybersecurity Analyst
+Bachelor,"Python,Linux,Risk Assessment,Network Security,Firewalls,SIEM,Penetration Testing,Ethical Hacking,Cryptography","Network Protection,Risk Management",1,Cybersecurity Analyst
+Master,"Tableau,Deep Learning,Machine Learning,Data Visualization,NumPy,Statistics,SQL,R","Research,Data Analysis",3,Data Scientist
+Bachelor,"Data Analysis,Stakeholder Management,SQL,Roadmap Planning,Leadership,User Research",Strategy,1,Product Manager
+Master,"Product Strategy,Data Analysis,User Research,Leadership,Roadmap Planning,Stakeholder Management,Scrum","Leadership,Strategy,Innovation",1,Product Manager
+Bachelor,"Cryptography,Risk Assessment,SIEM,Firewalls,Python,Penetration Testing,Ethical Hacking,Linux","Network Protection,Risk Management,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"Ansible,Bash,CI/CD,Kubernetes,Linux,Terraform,Docker,AWS,Azure,Git",Cloud Computing,3,DevOps Engineer
+Bachelor,"Terraform,AWS,Jenkins,CI/CD,Azure,Python,Bash,Git,Docker,Ansible",Cloud Computing,1,DevOps Engineer
+Bachelor,"Git,Python,Azure,Kubernetes,Ansible,CI/CD,AWS,Docker","Automation,Infrastructure,Cloud Computing",0,DevOps Engineer
+Bachelor,"Penetration Testing,Linux,Python,Risk Assessment,Ethical Hacking,SIEM,Network Security,Firewalls","Risk Management,Security",2,Cybersecurity Analyst
+Bachelor,"Kubernetes,AWS,CI/CD,Bash,Python,Ansible,Azure","Infrastructure,Automation",0,DevOps Engineer
+Master,"Deep Learning,Statistics,PyTorch,Pandas,TensorFlow,NumPy,Machine Learning,Python,Data Visualization",Data Analysis,0,Data Scientist
+Master,"User Research,Adobe XD,Prototyping,Wireframing,CSS","Product Development,User Experience",0,UX/UI Designer
+Master,"Adobe XD,Prototyping,Wireframing,User Research,Usability Testing,CSS,Figma,HTML,Design Thinking",Design,1,UX/UI Designer
+Bachelor,"Design Thinking,Figma,Usability Testing,Adobe XD,Prototyping,HTML,User Research,Wireframing","User Experience,Product Development,Visual Design",1,UX/UI Designer
+Master,"Stakeholder Management,Leadership,SQL,Data Analysis,Roadmap Planning,Agile,Product Strategy,User Research",Strategy,0,Product Manager
+Bachelor,"Wireframing,Prototyping,CSS,Usability Testing,Design Thinking","Product Development,Design",0,UX/UI Designer
+Bachelor,"Kubernetes,Docker,Azure,CI/CD,Git,Linux,AWS,Terraform,Python",Infrastructure,0,DevOps Engineer
+Bachelor,"Adobe XD,User Research,Prototyping,Wireframing,Design Thinking,Figma",Product Development,1,UX/UI Designer
+PhD,"PyTorch,Tableau,TensorFlow,Pandas,Data Visualization,SQL","Machine Learning,Research,Data Analysis",2,Data Scientist
+Bachelor,"Java,Algorithms,Docker,Git,AWS,JavaScript,C++,API Development","Software Development,Problem Solving",1,Software Engineer
+Bachelor,"Algorithms,Node.js,JavaScript,SQL,C++,Git,Java,AWS,React","Web Development,Software Development",2,Software Engineer
+Master,"CSS,User Research,Figma,Usability Testing,Prototyping,Wireframing,Design Thinking,Adobe XD,HTML","User Experience,Design",1,UX/UI Designer
+Master,"Algorithms,AWS,SQL,Java,Git","Problem Solving,Mobile Apps,Web Development",2,Software Engineer
+Bachelor,"Penetration Testing,Linux,Firewalls,Risk Assessment,SIEM,Network Security,Ethical Hacking,Python","Ethical Hacking,Security",1,Cybersecurity Analyst
+Bachelor,"Python,Linux,Ansible,Jenkins,AWS,Docker,CI/CD","Automation,Cloud Computing,Infrastructure",2,DevOps Engineer
+Bachelor,"Product Strategy,Data Analysis,User Research,Scrum,Agile,Roadmap Planning,SQL,Leadership,Stakeholder Management","Strategy,Innovation,Leadership",2,Product Manager
+Bachelor,"Ethical Hacking,Penetration Testing,SIEM,Risk Assessment,Network Security,Firewalls","Risk Management,Network Protection",0,Cybersecurity Analyst
+Bachelor,"AWS,Jenkins,Terraform,CI/CD,Bash,Azure,Python","Cloud Computing,Automation,Infrastructure",0,DevOps Engineer
+Master,"C++,JavaScript,Node.js,AWS,SQL,API Development","Web Development,Mobile Apps",1,Software Engineer
+Bachelor,"User Research,HTML,Wireframing,CSS,Design Thinking","Visual Design,Product Development,User Experience",2,UX/UI Designer
+Bachelor,"CSS,User Research,Wireframing,Usability Testing,Adobe XD","User Experience,Design,Product Development",0,UX/UI Designer
+Bachelor,"Data Structures,SQL,React,C++,Algorithms,Python,API Development,Git,JavaScript","Mobile Apps,Problem Solving",0,Software Engineer
+Master,"Node.js,React,JavaScript,Git,Python,Java",Mobile Apps,2,Software Engineer
+Master,"Linux,Jenkins,Docker,Azure,AWS,Ansible","Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"Firewalls,Cryptography,Risk Assessment,Network Security,Penetration Testing,SIEM,Ethical Hacking,Linux","Risk Management,Network Protection,Security",3,Cybersecurity Analyst
+Master,"Node.js,API Development,Python,C++,AWS","Web Development,Problem Solving",0,Software Engineer
+Master,"Data Visualization,SQL,Python,Statistics,NumPy,TensorFlow","Data Analysis,Research",0,Data Scientist
+Master,"Design Thinking,Wireframing,HTML,User Research,Prototyping,Adobe XD","Visual Design,Design,User Experience",2,UX/UI Designer
+Master,"Ansible,Python,Kubernetes,Linux,Jenkins,Terraform,Docker,CI/CD,Azure","Infrastructure,Automation,System Administration",2,DevOps Engineer
+Bachelor,"Python,Algorithms,JavaScript,AWS,React,Data Structures,SQL","Software Development,Web Development,Problem Solving",1,Software Engineer
+Bachelor,"Penetration Testing,Cryptography,SIEM,Network Security,Risk Assessment,Python","Risk Management,Network Protection,Ethical Hacking",1,Cybersecurity Analyst
+Bachelor,"PyTorch,R,Deep Learning,NumPy,Pandas,Machine Learning,Statistics,Data Visualization,SQL","Data Analysis,Statistics",0,Data Scientist
+Master,"SQL,Git,Data Structures,Python,API Development,Docker,Node.js,Java",Problem Solving,1,Software Engineer
+Bachelor,"React,Data Structures,Java,C++,API Development,Python,Docker,Git,AWS,Algorithms",Software Development,1,Software Engineer
+Bachelor,"Node.js,React,Data Structures,C++,Python,API Development,Docker,AWS","Mobile Apps,Software Development",1,Software Engineer
+Master,"Python,Linux,Ethical Hacking,Risk Assessment,SIEM,Network Security,Penetration Testing,Firewalls","Security,Risk Management,Ethical Hacking",2,Cybersecurity Analyst
+Bachelor,"Roadmap Planning,User Research,Agile,Stakeholder Management,Product Strategy,Leadership,Data Analysis,SQL,Scrum","Leadership,Product Development,Strategy",2,Product Manager
+Bachelor,"Roadmap Planning,Scrum,SQL,Agile,Stakeholder Management,Product Strategy,Data Analysis,Leadership,User Research",Leadership,0,Product Manager
+Bachelor,"API Development,SQL,C++,Git,Algorithms,Docker,Java,React","Mobile Apps,Software Development",0,Software Engineer
+PhD,"SQL,Pandas,Statistics,R,Deep Learning,Data Visualization",Research,0,Data Scientist
+Bachelor,"Product Strategy,Leadership,Stakeholder Management,User Research,Data Analysis,Roadmap Planning,Scrum,SQL","Innovation,Product Development,Leadership",0,Product Manager
+Bachelor,"Leadership,User Research,Data Analysis,Stakeholder Management,SQL,Product Strategy,Roadmap Planning,Agile,Scrum",Strategy,1,Product Manager
+Bachelor,"CSS,Wireframing,Prototyping,Adobe XD,HTML","Product Development,Design,User Experience",1,UX/UI Designer
+Master,"NumPy,Data Visualization,TensorFlow,Statistics,Machine Learning,R,Pandas,PyTorch,Tableau,SQL","AI,Research",3,Data Scientist
+Bachelor,"Jenkins,AWS,Git,Terraform,Docker,Linux,CI/CD,Azure,Ansible,Python","Cloud Computing,Infrastructure,System Administration",2,DevOps Engineer
+Bachelor,"Penetration Testing,Ethical Hacking,SIEM,Python,Linux,Firewalls,Cryptography,Risk Assessment","Ethical Hacking,Security,Risk Management",1,Cybersecurity Analyst
+Bachelor,"SQL,Stakeholder Management,Roadmap Planning,User Research,Agile,Leadership,Scrum,Product Strategy",Leadership,2,Product Manager
+Bachelor,"JavaScript,SQL,C++,Algorithms,Docker,Python,Data Structures","Mobile Apps,Software Development",0,Software Engineer
+Master,"Usability Testing,Prototyping,HTML,Figma,Wireframing,Adobe XD,User Research,CSS,Design Thinking",Visual Design,1,UX/UI Designer
+Master,"Python,R,Data Visualization,TensorFlow,Machine Learning,Statistics,SQL,Tableau,PyTorch","Machine Learning,AI,Statistics",0,Data Scientist
+Master,"HTML,User Research,Figma,Usability Testing,CSS,Prototyping",Design,1,UX/UI Designer
+Master,"API Development,SQL,Java,Data Structures,C++,Docker,React,Git",Mobile Apps,0,Software Engineer
+Bachelor,"CI/CD,Kubernetes,Bash,Python,AWS,Linux,Terraform,Git","Automation,Cloud Computing",0,DevOps Engineer
+Master,"Data Visualization,TensorFlow,Machine Learning,Pandas,R,Tableau,NumPy,PyTorch,Python","Data Analysis,Machine Learning",1,Data Scientist
+Bachelor,"AWS,Azure,Docker,Python,Linux,Git,Jenkins,Ansible","Automation,System Administration",1,DevOps Engineer
+Bachelor,"Algorithms,API Development,JavaScript,Data Structures,React,Docker,C++,Git","Problem Solving,Mobile Apps,Web Development",0,Software Engineer
+Master,"Algorithms,Node.js,Data Structures,API Development,AWS,C++,Java,Git","Mobile Apps,Problem Solving",2,Software Engineer
+Master,"Pandas,Python,R,Machine Learning,NumPy,Data Visualization,PyTorch,Deep Learning,Statistics,SQL","Data Analysis,Machine Learning,Statistics",1,Data Scientist
+Master,"SIEM,Risk Assessment,Ethical Hacking,Network Security,Linux,Firewalls,Cryptography,Python,Penetration Testing","Ethical Hacking,Risk Management",1,Cybersecurity Analyst
+Bachelor,"SIEM,Network Security,Penetration Testing,Python,Risk Assessment,Linux,Firewalls",Network Protection,0,Cybersecurity Analyst
+Bachelor,"Java,React,C++,Git,Python,Algorithms","Mobile Apps,Problem Solving,Web Development",2,Software Engineer
+Bachelor,"Prototyping,HTML,Adobe XD,Wireframing,User Research,CSS",Visual Design,0,UX/UI Designer
+Master,"Git,Ansible,Docker,CI/CD,Python,Kubernetes,AWS,Linux",Cloud Computing,0,DevOps Engineer
+PhD,"Pandas,Machine Learning,Statistics,SQL,Deep Learning,NumPy,Tableau,Python,PyTorch",Statistics,1,Data Scientist
+Bachelor,"User Research,Agile,Leadership,Product Strategy,Scrum,SQL,Roadmap Planning","Product Development,Leadership,Innovation",1,Product Manager
+Bachelor,"Product Strategy,User Research,Stakeholder Management,Scrum,Agile,Data Analysis","Leadership,Innovation,Strategy",1,Product Manager
+Master,"SQL,Agile,User Research,Leadership,Data Analysis,Scrum,Product Strategy","Product Development,Strategy",2,Product Manager
+Bachelor,"Design Thinking,Usability Testing,Prototyping,User Research,Adobe XD,Wireframing,Figma","Visual Design,User Experience",1,UX/UI Designer
+Master,"Figma,CSS,User Research,Prototyping,Design Thinking,Wireframing,Usability Testing,HTML,Adobe XD","Visual Design,User Experience",2,UX/UI Designer
+Master,"Ethical Hacking,SIEM,Firewalls,Risk Assessment,Network Security,Penetration Testing,Cryptography,Python","Ethical Hacking,Security",1,Cybersecurity Analyst
+Bachelor,"C++,Data Structures,Algorithms,Node.js,Python,AWS,SQL","Web Development,Software Development",1,Software Engineer
+Bachelor,"AWS,Docker,Git,CI/CD,Terraform,Kubernetes,Python,Azure,Jenkins,Bash",Infrastructure,0,DevOps Engineer
+Bachelor,"Terraform,AWS,Python,Ansible,Git,Docker,Kubernetes","Cloud Computing,Automation,System Administration",0,DevOps Engineer
+Bachelor,"SIEM,Risk Assessment,Linux,Firewalls,Cryptography","Security,Risk Management,Network Protection",2,Cybersecurity Analyst
+Bachelor,"AWS,Python,Docker,Data Structures,Algorithms,SQL,React,C++","Web Development,Mobile Apps,Problem Solving",2,Software Engineer
+Bachelor,"Python,Algorithms,C++,Git,JavaScript","Problem Solving,Software Development",1,Software Engineer
+Bachelor,"User Research,Usability Testing,CSS,Prototyping,Design Thinking,Figma","Visual Design,User Experience",0,UX/UI Designer
+Bachelor,"React,AWS,Java,Data Structures,Python,JavaScript,Docker,SQL,API Development,Algorithms","Problem Solving,Web Development,Software Development",0,Software Engineer
+Master,"Stakeholder Management,Leadership,Data Analysis,SQL,User Research,Scrum,Agile,Roadmap Planning,Product Strategy","Leadership,Strategy",1,Product Manager
+Bachelor,"SQL,Roadmap Planning,User Research,Data Analysis,Product Strategy,Agile,Scrum",Leadership,0,Product Manager
+Bachelor,"API Development,SQL,Data Structures,Algorithms,Node.js,Docker,Java,JavaScript","Mobile Apps,Problem Solving",0,Software Engineer
+Bachelor,"Git,Bash,Terraform,Python,AWS,Docker,Ansible,Kubernetes",Infrastructure,0,DevOps Engineer
+Bachelor,"Docker,Git,React,C++,Node.js,Algorithms,SQL,API Development",Problem Solving,1,Software Engineer
+Bachelor,"Linux,Bash,Docker,CI/CD,Git,Python,Azure,AWS,Terraform",Infrastructure,0,DevOps Engineer
+Bachelor,"Python,Jenkins,CI/CD,Terraform,AWS,Git,Docker","Cloud Computing,Infrastructure,System Administration",1,DevOps Engineer
+Bachelor,"Usability Testing,Adobe XD,Design Thinking,Prototyping,HTML","User Experience,Visual Design,Product Development",0,UX/UI Designer
+Master,"SQL,Product Strategy,Stakeholder Management,Agile,User Research,Data Analysis,Scrum,Roadmap Planning","Strategy,Product Development,Innovation",1,Product Manager
+Master,"Node.js,API Development,React,JavaScript,Python,Git,Java,AWS","Mobile Apps,Web Development",2,Software Engineer
+Bachelor,"Data Analysis,Roadmap Planning,Agile,Leadership,Scrum,User Research,SQL,Product Strategy,Stakeholder Management","Product Development,Strategy",0,Product Manager
+Bachelor,"Linux,Firewalls,Python,SIEM,Ethical Hacking,Penetration Testing,Risk Assessment,Network Security,Cryptography","Security,Risk Management",1,Cybersecurity Analyst
+Master,"Product Strategy,Scrum,SQL,User Research,Data Analysis,Stakeholder Management,Roadmap Planning,Agile","Innovation,Product Development",1,Product Manager
+Bachelor,"Design Thinking,User Research,CSS,Adobe XD,HTML,Usability Testing,Wireframing","User Experience,Design,Visual Design",0,UX/UI Designer
+Bachelor,"Risk Assessment,Firewalls,Network Security,Ethical Hacking,Penetration Testing,Linux,SIEM,Cryptography","Ethical Hacking,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Stakeholder Management,Product Strategy,Roadmap Planning,User Research,Data Analysis,Leadership,Scrum,SQL","Innovation,Product Development,Leadership",1,Product Manager
+Master,"Linux,Bash,Git,Terraform,AWS,Ansible","Automation,Infrastructure,Cloud Computing",2,DevOps Engineer
+Bachelor,"Data Structures,React,AWS,Node.js,C++,Python,Java,API Development,Docker","Software Development,Problem Solving",3,Software Engineer
+Bachelor,"Python,Ethical Hacking,Cryptography,Network Security,Linux,Risk Assessment",Ethical Hacking,1,Cybersecurity Analyst
+Bachelor,"CSS,Figma,User Research,Wireframing,Adobe XD,Design Thinking,Usability Testing,Prototyping","Design,Product Development,Visual Design",0,UX/UI Designer
+Bachelor,"Adobe XD,Design Thinking,Wireframing,CSS,Usability Testing,Figma,Prototyping,HTML,User Research",User Experience,0,UX/UI Designer
+Master,"Data Analysis,User Research,Product Strategy,Roadmap Planning,Scrum,SQL,Stakeholder Management,Leadership,Agile","Innovation,Strategy",0,Product Manager
+Bachelor,"Azure,Linux,Ansible,Python,Terraform,CI/CD","System Administration,Automation,Cloud Computing",0,DevOps Engineer
+Bachelor,"Data Analysis,Roadmap Planning,Scrum,Product Strategy,Stakeholder Management,SQL","Leadership,Innovation,Product Development",2,Product Manager
+Bachelor,"Prototyping,Design Thinking,HTML,User Research,Wireframing,Figma,Adobe XD","User Experience,Design",0,UX/UI Designer
+Master,"Deep Learning,SQL,Data Visualization,Machine Learning,TensorFlow,Statistics,Pandas,Python,NumPy,R","Data Analysis,Statistics",0,Data Scientist
+Bachelor,"SQL,Data Analysis,User Research,Roadmap Planning,Leadership,Product Strategy,Agile,Stakeholder Management,Scrum",Leadership,1,Product Manager
+Master,"Docker,Node.js,React,Python,API Development,C++,JavaScript","Mobile Apps,Software Development,Problem Solving",0,Software Engineer
+Bachelor,"Python,Docker,Git,SQL,API Development,Algorithms,React,AWS","Web Development,Mobile Apps",0,Software Engineer
+Master,"SIEM,Firewalls,Penetration Testing,Risk Assessment,Python,Network Security,Linux,Cryptography,Ethical Hacking","Security,Risk Management",2,Cybersecurity Analyst
+Master,"Python,AWS,JavaScript,SQL,Docker",Mobile Apps,1,Software Engineer
+Master,"R,Statistics,Pandas,Tableau,Data Visualization,PyTorch,NumPy,Machine Learning,Python,SQL",Research,0,Data Scientist
+Bachelor,"HTML,User Research,Figma,CSS,Prototyping,Design Thinking,Usability Testing,Adobe XD","User Experience,Product Development",0,UX/UI Designer
+Master,"Product Strategy,SQL,Stakeholder Management,Agile,User Research,Data Analysis,Leadership,Scrum","Strategy,Leadership",2,Product Manager
+Bachelor,"Cryptography,SIEM,Linux,Penetration Testing,Network Security,Python,Ethical Hacking","Ethical Hacking,Network Protection",0,Cybersecurity Analyst
+Bachelor,"HTML,Wireframing,Prototyping,Design Thinking,Adobe XD,CSS","Design,Visual Design,Product Development",1,UX/UI Designer
+Master,"Docker,Linux,Bash,Ansible,Python,Jenkins,Kubernetes",Infrastructure,1,DevOps Engineer
+Master,"Data Structures,SQL,React,Java,Python,Node.js,C++,JavaScript,Git","Web Development,Problem Solving",1,Software Engineer
+Bachelor,"Roadmap Planning,Scrum,Stakeholder Management,Product Strategy,User Research,Agile","Leadership,Product Development,Innovation",0,Product Manager
+Bachelor,"Python,Network Security,Risk Assessment,SIEM,Ethical Hacking,Cryptography,Penetration Testing,Firewalls,Linux",Risk Management,0,Cybersecurity Analyst
+Bachelor,"Docker,Git,JavaScript,SQL,Algorithms,Data Structures,Java",Web Development,1,Software Engineer
+Bachelor,"User Research,Product Strategy,Leadership,Agile,Stakeholder Management,Roadmap Planning,Data Analysis","Strategy,Leadership,Product Development",3,Product Manager
+Bachelor,"SIEM,Network Security,Firewalls,Penetration Testing,Risk Assessment",Network Protection,1,Cybersecurity Analyst
+Bachelor,"Scrum,Product Strategy,User Research,Stakeholder Management,SQL,Agile,Roadmap Planning,Leadership,Data Analysis",Product Development,2,Product Manager
+Bachelor,"Data Structures,Node.js,Docker,Python,React,Git,JavaScript,Java,C++","Problem Solving,Mobile Apps,Web Development",1,Software Engineer
+Bachelor,"Python,Algorithms,Node.js,SQL,Git,Data Structures,AWS,C++","Software Development,Mobile Apps",0,Software Engineer
+Master,"Design Thinking,Wireframing,Adobe XD,Usability Testing,Prototyping,User Research,CSS,Figma,HTML","Design,Visual Design",2,UX/UI Designer
+Bachelor,"Bash,Terraform,Jenkins,Kubernetes,CI/CD,Azure,Docker,AWS","Cloud Computing,System Administration",0,DevOps Engineer
+PhD,"SQL,Data Visualization,Python,Deep Learning,Tableau,NumPy",Machine Learning,0,Data Scientist
+Bachelor,"Data Structures,Algorithms,React,Git,Docker","Web Development,Problem Solving",2,Software Engineer
+Bachelor,"Data Analysis,Leadership,Agile,Roadmap Planning,Scrum,User Research,SQL,Stakeholder Management,Product Strategy","Product Development,Strategy,Innovation",1,Product Manager
+Bachelor,"Bash,Git,AWS,Jenkins,Azure,Kubernetes,Ansible,Linux","System Administration,Cloud Computing",3,DevOps Engineer
+Bachelor,"Stakeholder Management,Agile,Scrum,Roadmap Planning,User Research,Data Analysis,Leadership","Leadership,Innovation,Product Development",0,Product Manager
+Bachelor,"Agile,Leadership,Scrum,Product Strategy,SQL,Data Analysis,Stakeholder Management,User Research",Leadership,1,Product Manager
+Bachelor,"Jenkins,Kubernetes,Git,Python,Azure,Terraform,Bash,Ansible,CI/CD","Cloud Computing,System Administration",2,DevOps Engineer
+Master,"Machine Learning,SQL,Data Visualization,Deep Learning,Python,NumPy,R","Research,Machine Learning",0,Data Scientist
+Master,"Deep Learning,NumPy,R,Tableau,TensorFlow,PyTorch,Python","AI,Research,Statistics",1,Data Scientist
+Bachelor,"Data Visualization,Statistics,Pandas,PyTorch,SQL,NumPy,Python","Data Analysis,Statistics,AI",1,Data Scientist
+PhD,"Statistics,Data Visualization,Deep Learning,TensorFlow,Machine Learning,NumPy","Machine Learning,Statistics",1,Data Scientist
+Bachelor,"Ansible,Docker,Linux,Python,Kubernetes,AWS,Terraform,Git,CI/CD,Azure","Automation,Infrastructure,System Administration",0,DevOps Engineer
+Bachelor,"Ansible,Git,Python,Docker,Linux,Jenkins","Cloud Computing,System Administration,Automation",0,DevOps Engineer
+Master,"Scrum,Data Analysis,Leadership,Agile,Roadmap Planning,Stakeholder Management,SQL,Product Strategy",Leadership,0,Product Manager
+Bachelor,"Git,Data Structures,Algorithms,C++,Node.js,JavaScript","Software Development,Web Development,Problem Solving",1,Software Engineer
+Bachelor,"CI/CD,Linux,Jenkins,Python,Terraform,Git",Automation,1,DevOps Engineer
+Bachelor,"React,C++,AWS,API Development,Git,Java,Python","Mobile Apps,Software Development,Problem Solving",0,Software Engineer
+Master,"User Research,Wireframing,Adobe XD,CSS,HTML,Usability Testing,Design Thinking,Figma,Prototyping",Visual Design,2,UX/UI Designer
+Bachelor,"AWS,SQL,Docker,API Development,C++,Python,Data Structures","Problem Solving,Mobile Apps",1,Software Engineer
+Bachelor,"CSS,Usability Testing,User Research,Design Thinking,Wireframing,Prototyping","Design,User Experience,Product Development",0,UX/UI Designer
+Bachelor,"AWS,Kubernetes,Bash,Linux,Ansible,Python,Git,Terraform",System Administration,0,DevOps Engineer
+Bachelor,"Python,Cryptography,SIEM,Ethical Hacking,Network Security,Risk Assessment,Firewalls,Penetration Testing","Network Protection,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"Python,Git,API Development,Docker,Java,React","Software Development,Problem Solving,Web Development",0,Software Engineer
+Bachelor,"SQL,Leadership,User Research,Data Analysis,Agile,Product Strategy","Product Development,Innovation,Leadership",0,Product Manager
+Bachelor,"Prototyping,Figma,Adobe XD,User Research,Usability Testing","User Experience,Design,Visual Design",1,UX/UI Designer
+Bachelor,"Git,Bash,AWS,Azure,Python,Terraform","Automation,Cloud Computing,System Administration",0,DevOps Engineer
+Master,"CSS,HTML,Adobe XD,Wireframing,Usability Testing,Figma","User Experience,Design",1,UX/UI Designer
+Bachelor,"R,Deep Learning,Pandas,SQL,Tableau,Python,TensorFlow,NumPy,Machine Learning","Statistics,Data Analysis",2,Data Scientist
+Bachelor,"Usability Testing,Prototyping,HTML,Adobe XD,Figma,Design Thinking,User Research,CSS","Product Development,Design,User Experience",1,UX/UI Designer
+Bachelor,"Data Visualization,Tableau,Machine Learning,SQL,PyTorch,R,Python,Pandas,Deep Learning","Statistics,Machine Learning,Research",1,Data Scientist
+Master,"Penetration Testing,Cryptography,Risk Assessment,Linux,Firewalls,Network Security","Ethical Hacking,Security,Network Protection",2,Cybersecurity Analyst
+Bachelor,"C++,Algorithms,Python,SQL,Data Structures,Git",Problem Solving,2,Software Engineer
+Master,"Stakeholder Management,User Research,Scrum,Agile,SQL,Leadership,Roadmap Planning,Data Analysis,Product Strategy","Strategy,Leadership",3,Product Manager
+Bachelor,"API Development,React,Algorithms,Docker,JavaScript,Python,SQL,Data Structures,AWS,C++","Web Development,Mobile Apps",1,Software Engineer
+Bachelor,"Firewalls,Ethical Hacking,Linux,Network Security,Python,Risk Assessment,Cryptography,Penetration Testing,SIEM","Security,Network Protection,Risk Management",3,Cybersecurity Analyst
+Bachelor,"Design Thinking,Wireframing,Prototyping,HTML,Figma,User Research,CSS",Design,1,UX/UI Designer
+Master,"User Research,HTML,Design Thinking,CSS,Prototyping","Visual Design,User Experience",1,UX/UI Designer
+Bachelor,"User Research,Prototyping,Design Thinking,Wireframing,HTML,Usability Testing,CSS,Figma","Product Development,Design,User Experience",2,UX/UI Designer
+Master,"Firewalls,Risk Assessment,SIEM,Penetration Testing,Cryptography,Network Security,Ethical Hacking,Linux","Ethical Hacking,Network Protection,Security",1,Cybersecurity Analyst
+Master,"Ansible,Python,CI/CD,Git,Jenkins,AWS,Terraform","System Administration,Automation",3,DevOps Engineer
+Bachelor,"Python,C++,Node.js,Docker,Java,API Development,SQL,AWS","Software Development,Problem Solving",1,Software Engineer
+Bachelor,"Network Security,Linux,SIEM,Python,Risk Assessment",Network Protection,0,Cybersecurity Analyst
+Bachelor,"Azure,Ansible,Git,Linux,Jenkins,CI/CD,Terraform","Cloud Computing,Automation,Infrastructure",0,DevOps Engineer
+Bachelor,"Risk Assessment,Python,Network Security,SIEM,Penetration Testing","Network Protection,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"Stakeholder Management,SQL,User Research,Leadership,Data Analysis,Scrum","Product Development,Strategy,Leadership",1,Product Manager
+PhD,"PyTorch,TensorFlow,Python,NumPy,Tableau,Data Visualization,SQL","Statistics,AI",0,Data Scientist
+Master,"Leadership,Stakeholder Management,Data Analysis,Roadmap Planning,Scrum,Agile,Product Strategy,User Research,SQL",Strategy,3,Product Manager
+Bachelor,"React,Git,JavaScript,AWS,SQL,Node.js,API Development,Algorithms,C++,Java","Software Development,Web Development,Mobile Apps",2,Software Engineer
+Master,"Python,Cryptography,Linux,Firewalls,Penetration Testing,Risk Assessment,Ethical Hacking","Network Protection,Risk Management,Ethical Hacking",1,Cybersecurity Analyst
+Master,"User Research,Agile,Leadership,Roadmap Planning,SQL,Scrum,Product Strategy,Stakeholder Management",Product Development,2,Product Manager
+Master,"Deep Learning,TensorFlow,Data Visualization,Tableau,Pandas,R,Machine Learning,SQL,Python",Data Analysis,1,Data Scientist
+Master,"SQL,Tableau,Data Visualization,Machine Learning,Python,Pandas,R","AI,Research,Machine Learning",2,Data Scientist
+Bachelor,"Azure,Bash,Docker,Kubernetes,Ansible,Git,CI/CD,Jenkins",Automation,3,DevOps Engineer
+Bachelor,"Network Security,Ethical Hacking,SIEM,Penetration Testing,Cryptography,Firewalls,Risk Assessment,Linux","Risk Management,Ethical Hacking,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Penetration Testing,Firewalls,Ethical Hacking,Linux,Cryptography,SIEM,Python,Network Security,Risk Assessment","Security,Network Protection,Risk Management",2,Cybersecurity Analyst
+Master,"SQL,Roadmap Planning,Leadership,Data Analysis,Scrum,Stakeholder Management,Agile,Product Strategy",Leadership,0,Product Manager
+Master,"Git,C++,Java,Algorithms,SQL,JavaScript,Data Structures",Mobile Apps,1,Software Engineer
+Bachelor,"User Research,Usability Testing,Prototyping,CSS,Adobe XD,Figma,Design Thinking,Wireframing,HTML","Design,User Experience",0,UX/UI Designer
+Master,"Figma,HTML,User Research,Prototyping,Design Thinking","User Experience,Product Development,Visual Design",0,UX/UI Designer
+Bachelor,"Terraform,Git,Linux,Docker,Ansible,Jenkins,Kubernetes,Bash,Python","Cloud Computing,System Administration,Automation",2,DevOps Engineer
+Bachelor,"Stakeholder Management,SQL,Product Strategy,Data Analysis,Scrum,Leadership","Product Development,Leadership,Innovation",0,Product Manager
+Bachelor,"Firewalls,Ethical Hacking,Python,Risk Assessment,Cryptography,SIEM","Security,Risk Management,Ethical Hacking",3,Cybersecurity Analyst
+Bachelor,"Design Thinking,Figma,Usability Testing,CSS,Adobe XD,User Research,Prototyping,Wireframing","Product Development,Design,User Experience",0,UX/UI Designer
+Bachelor,"Design Thinking,HTML,Prototyping,Adobe XD,User Research,Usability Testing,CSS",Product Development,0,UX/UI Designer
+Master,"Git,Kubernetes,Bash,Docker,Ansible,Terraform,Python,AWS,Azure","Infrastructure,Automation,System Administration",1,DevOps Engineer
+Bachelor,"Docker,Linux,CI/CD,Git,AWS,Jenkins,Python,Ansible","Automation,Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"Stakeholder Management,User Research,Data Analysis,Product Strategy,SQL,Agile,Scrum,Leadership,Roadmap Planning","Leadership,Innovation",1,Product Manager
+Bachelor,"User Research,Wireframing,Adobe XD,HTML,Prototyping",Visual Design,0,UX/UI Designer
+Bachelor,"Deep Learning,PyTorch,Pandas,Statistics,R,NumPy,Machine Learning,TensorFlow,SQL","Machine Learning,Data Analysis",0,Data Scientist
+Master,"Linux,Risk Assessment,SIEM,Network Security,Python",Ethical Hacking,0,Cybersecurity Analyst
+Bachelor,"C++,Java,Git,Node.js,SQL,JavaScript","Problem Solving,Software Development",1,Software Engineer
+Bachelor,"Git,Algorithms,Java,AWS,API Development,JavaScript,Data Structures,React,C++","Web Development,Problem Solving,Software Development",1,Software Engineer
+Master,"Ethical Hacking,Cryptography,SIEM,Firewalls,Risk Assessment","Ethical Hacking,Risk Management",1,Cybersecurity Analyst
+Bachelor,"User Research,Stakeholder Management,Product Strategy,Leadership,Agile,Roadmap Planning",Leadership,2,Product Manager
+Master,"Tableau,SQL,Data Visualization,Deep Learning,Python,Statistics,Machine Learning,PyTorch,TensorFlow,R","Machine Learning,AI,Statistics",3,Data Scientist
+Bachelor,"Product Strategy,Stakeholder Management,User Research,Data Analysis,Leadership,Agile,SQL,Roadmap Planning","Product Development,Leadership",1,Product Manager
+Bachelor,"Design Thinking,Figma,Usability Testing,HTML,User Research,CSS,Adobe XD,Wireframing,Prototyping","Visual Design,Design,Product Development",0,UX/UI Designer
+Bachelor,"Python,AWS,Azure,CI/CD,Jenkins,Terraform,Bash,Git,Docker",Cloud Computing,0,DevOps Engineer
+Bachelor,"HTML,User Research,Wireframing,Prototyping,Adobe XD,Design Thinking,CSS","User Experience,Design,Visual Design",3,UX/UI Designer
+Bachelor,"Scrum,SQL,Agile,User Research,Stakeholder Management,Leadership,Product Strategy,Roadmap Planning","Product Development,Innovation,Leadership",2,Product Manager
+Bachelor,"Product Strategy,Data Analysis,Scrum,User Research,Stakeholder Management,SQL,Agile,Leadership","Product Development,Strategy",3,Product Manager
+Master,"Linux,Penetration Testing,Python,Ethical Hacking,Risk Assessment,Firewalls,Cryptography,Network Security","Risk Management,Network Protection",2,Cybersecurity Analyst
+Bachelor,"Usability Testing,CSS,Design Thinking,Prototyping,HTML,User Research,Adobe XD,Figma","Visual Design,Design,Product Development",1,UX/UI Designer
+Master,"NumPy,Machine Learning,Statistics,Tableau,Pandas,Data Visualization,Python,R",Research,1,Data Scientist
+Master,"SQL,Node.js,Git,Algorithms,API Development,Data Structures,Python",Mobile Apps,2,Software Engineer
+Bachelor,"Data Visualization,NumPy,PyTorch,Deep Learning,SQL,Pandas",Research,0,Data Scientist
+Bachelor,"User Research,Figma,HTML,Prototyping,Design Thinking,Adobe XD,CSS,Wireframing","Product Development,Visual Design",1,UX/UI Designer
+Bachelor,"Stakeholder Management,SQL,Roadmap Planning,Leadership,Scrum,Product Strategy,Data Analysis,User Research","Leadership,Innovation,Strategy",0,Product Manager
+Master,"Algorithms,Python,Java,Git,Data Structures,AWS,Node.js,JavaScript","Software Development,Mobile Apps,Problem Solving",2,Software Engineer
+Bachelor,"Kubernetes,Azure,CI/CD,Ansible,Jenkins,Git,AWS","Cloud Computing,System Administration",1,DevOps Engineer
+Bachelor,"SQL,Data Analysis,Leadership,Stakeholder Management,Roadmap Planning,Agile,Scrum,User Research,Product Strategy",Strategy,0,Product Manager
+Bachelor,"User Research,Prototyping,Wireframing,Usability Testing,Design Thinking,HTML,Figma","Product Development,User Experience",0,UX/UI Designer
+Bachelor,"Python,Azure,Jenkins,Docker,Ansible,Bash,Terraform","Cloud Computing,System Administration,Automation",1,DevOps Engineer
+Master,"Penetration Testing,Linux,Cryptography,Firewalls,SIEM,Risk Assessment","Security,Risk Management",3,Cybersecurity Analyst
+Master,"Data Visualization,PyTorch,Deep Learning,R,NumPy,Python,Statistics,Pandas","Machine Learning,Statistics,Data Analysis",1,Data Scientist
+Master,"CI/CD,Bash,Terraform,Azure,Kubernetes,Ansible,AWS,Docker","Cloud Computing,System Administration",0,DevOps Engineer
+Bachelor,"Jenkins,Python,Azure,Kubernetes,Docker,Terraform",System Administration,0,DevOps Engineer
+Master,"Data Visualization,Statistics,Pandas,R,Machine Learning,Python","Research,AI",0,Data Scientist
+Bachelor,"Node.js,API Development,Java,AWS,Docker","Mobile Apps,Web Development,Software Development",1,Software Engineer
+Bachelor,"Docker,Node.js,Data Structures,Java,AWS","Mobile Apps,Software Development,Web Development",0,Software Engineer
+Master,"TensorFlow,Pandas,R,Deep Learning,SQL,Tableau,Statistics,NumPy,Data Visualization","Statistics,Machine Learning",2,Data Scientist
+Bachelor,"Git,Bash,Terraform,Jenkins,Kubernetes,CI/CD,Azure,Ansible,Python","Cloud Computing,Infrastructure",1,DevOps Engineer
+Bachelor,"CSS,Prototyping,Adobe XD,Figma,User Research,Wireframing","Visual Design,Design",1,UX/UI Designer
+Bachelor,"Linux,Cryptography,Penetration Testing,Risk Assessment,SIEM","Security,Ethical Hacking,Risk Management",1,Cybersecurity Analyst
+Master,"Data Structures,AWS,Java,JavaScript,Git,C++,Python,React","Mobile Apps,Software Development",1,Software Engineer
+Master,"R,Statistics,Data Visualization,Machine Learning,Deep Learning,Pandas",Data Analysis,0,Data Scientist
+Bachelor,"Cryptography,Python,Penetration Testing,Risk Assessment,Linux,SIEM","Risk Management,Ethical Hacking,Security",1,Cybersecurity Analyst
+Bachelor,"Firewalls,SIEM,Penetration Testing,Risk Assessment,Cryptography,Python,Ethical Hacking,Linux","Ethical Hacking,Network Protection",3,Cybersecurity Analyst
+Master,"Scrum,Agile,User Research,Product Strategy,SQL,Stakeholder Management,Roadmap Planning,Leadership,Data Analysis","Innovation,Product Development,Strategy",1,Product Manager
+Master,"Bash,Git,Terraform,Docker,Azure,Jenkins",Infrastructure,1,DevOps Engineer
+Bachelor,"Network Security,Python,SIEM,Penetration Testing,Ethical Hacking,Linux,Firewalls,Risk Assessment","Security,Risk Management",0,Cybersecurity Analyst
+Master,"CSS,Adobe XD,Figma,User Research,Wireframing,Usability Testing,Prototyping","Product Development,Design",1,UX/UI Designer
+Bachelor,"Prototyping,Usability Testing,Design Thinking,Wireframing,CSS",User Experience,2,UX/UI Designer
+Bachelor,"Node.js,Python,Data Structures,C++,API Development,React",Problem Solving,3,Software Engineer
+Bachelor,"React,C++,Java,Node.js,API Development,Python,JavaScript,AWS,Algorithms",Web Development,1,Software Engineer
+Master,"Linux,Penetration Testing,Risk Assessment,Firewalls,SIEM,Python,Network Security,Cryptography,Ethical Hacking",Ethical Hacking,0,Cybersecurity Analyst
+Master,"Cryptography,Network Security,SIEM,Linux,Ethical Hacking,Firewalls",Ethical Hacking,0,Cybersecurity Analyst
+PhD,"PyTorch,Pandas,Tableau,Deep Learning,TensorFlow,SQL,R,Statistics,Python","AI,Research,Data Analysis",1,Data Scientist
+Master,"AWS,Docker,C++,Data Structures,React,Node.js,API Development","Software Development,Problem Solving,Mobile Apps",2,Software Engineer
+Master,"Azure,AWS,CI/CD,Python,Terraform,Ansible,Bash,Kubernetes","Automation,Cloud Computing",0,DevOps Engineer
+Master,"C++,API Development,SQL,Data Structures,Git,Docker,Algorithms,Python","Software Development,Problem Solving",0,Software Engineer
+Master,"Penetration Testing,Ethical Hacking,Firewalls,Risk Assessment,Cryptography","Network Protection,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Kubernetes,Jenkins,Terraform,Linux,Git,Bash,CI/CD",Cloud Computing,0,DevOps Engineer
+Master,"Leadership,Product Strategy,Data Analysis,Roadmap Planning,Scrum,SQL,Stakeholder Management,User Research",Product Development,1,Product Manager
+Master,"Algorithms,React,Java,Python,Git,AWS,Node.js,Docker,API Development,Data Structures","Web Development,Software Development",0,Software Engineer
+Master,"Usability Testing,HTML,Adobe XD,Wireframing,Figma,CSS,Design Thinking","User Experience,Product Development",0,UX/UI Designer
+Master,"Adobe XD,Prototyping,User Research,Wireframing,Figma,Usability Testing,HTML",Design,0,UX/UI Designer
+Bachelor,"NumPy,Data Visualization,Deep Learning,Tableau,Pandas,R,Python,PyTorch","Machine Learning,Research,AI",0,Data Scientist
+Bachelor,"Scrum,User Research,Leadership,Product Strategy,SQL,Roadmap Planning,Data Analysis",Innovation,2,Product Manager
+Bachelor,"Python,Bash,Ansible,AWS,Linux,CI/CD,Jenkins,Git","Cloud Computing,System Administration,Infrastructure",0,DevOps Engineer
+Master,"Leadership,Agile,SQL,Roadmap Planning,User Research,Data Analysis","Product Development,Leadership,Innovation",0,Product Manager
+Master,"R,Data Visualization,Tableau,SQL,PyTorch,Deep Learning,NumPy,Pandas,Python","AI,Data Analysis,Statistics",0,Data Scientist
+Bachelor,"Docker,JavaScript,API Development,Data Structures,Algorithms,Node.js,Git",Problem Solving,1,Software Engineer
+Master,"Stakeholder Management,Data Analysis,Product Strategy,Agile,Scrum,Roadmap Planning,Leadership,SQL",Strategy,2,Product Manager
+Master,"Java,React,Data Structures,C++,Git,Python","Software Development,Problem Solving",0,Software Engineer
+Bachelor,"Ethical Hacking,Risk Assessment,Python,Network Security,Penetration Testing,Firewalls,SIEM,Cryptography","Security,Network Protection,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Agile,SQL,User Research,Scrum,Stakeholder Management,Roadmap Planning,Data Analysis,Leadership,Product Strategy","Innovation,Leadership",0,Product Manager
+Bachelor,"Scrum,SQL,Leadership,Stakeholder Management,Product Strategy,Roadmap Planning","Product Development,Strategy",2,Product Manager
+Master,"Penetration Testing,Cryptography,Risk Assessment,Firewalls,SIEM,Network Security,Linux","Ethical Hacking,Risk Management,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Machine Learning,Deep Learning,SQL,NumPy,R,Pandas","Research,Data Analysis",2,Data Scientist
+Bachelor,"Design Thinking,Figma,User Research,CSS,Usability Testing,HTML,Wireframing,Prototyping","Product Development,Visual Design,Design",0,UX/UI Designer
+Master,"Tableau,SQL,NumPy,Python,Deep Learning,Statistics,Data Visualization,PyTorch,TensorFlow","Machine Learning,AI,Research",0,Data Scientist
+Master,"Linux,Cryptography,Firewalls,SIEM,Network Security,Risk Assessment,Penetration Testing,Python",Ethical Hacking,1,Cybersecurity Analyst
+Bachelor,"Algorithms,Docker,Java,SQL,React,Git","Software Development,Mobile Apps,Web Development",0,Software Engineer
+Master,"CSS,Adobe XD,HTML,Figma,Wireframing,Usability Testing,Design Thinking,Prototyping,User Research","Design,Product Development",1,UX/UI Designer
+Bachelor,"Figma,CSS,HTML,Wireframing,Design Thinking,User Research,Adobe XD,Usability Testing,Prototyping","User Experience,Design",2,UX/UI Designer
+Bachelor,"Agile,Data Analysis,Stakeholder Management,Product Strategy,Scrum,Leadership,SQL","Innovation,Leadership,Strategy",0,Product Manager
+Bachelor,"Roadmap Planning,SQL,Scrum,Stakeholder Management,Agile,User Research,Data Analysis,Product Strategy","Innovation,Product Development",1,Product Manager
+Master,"Adobe XD,Figma,User Research,Design Thinking,Usability Testing","Visual Design,Product Development",0,UX/UI Designer
+Master,"SQL,R,NumPy,Data Visualization,Pandas,PyTorch",Data Analysis,3,Data Scientist
+Master,"C++,Docker,Python,Git,Algorithms,API Development,JavaScript,Data Structures",Web Development,0,Software Engineer
+Master,"Stakeholder Management,Scrum,Agile,SQL,Product Strategy,Leadership,User Research,Roadmap Planning",Strategy,0,Product Manager
+Master,"Kubernetes,Git,Python,CI/CD,Linux,Jenkins,Azure,Bash","Infrastructure,Automation",1,DevOps Engineer
+Master,"Usability Testing,Wireframing,Design Thinking,HTML,Adobe XD",User Experience,1,UX/UI Designer
+Master,"Risk Assessment,Ethical Hacking,Python,Linux,Penetration Testing","Security,Risk Management,Ethical Hacking",1,Cybersecurity Analyst
+Master,"Ethical Hacking,Firewalls,Risk Assessment,SIEM,Linux",Ethical Hacking,3,Cybersecurity Analyst
+Bachelor,"Scrum,Data Analysis,Product Strategy,Roadmap Planning,User Research,Stakeholder Management,Leadership,Agile,SQL",Product Development,0,Product Manager
+Bachelor,"Usability Testing,Figma,Wireframing,HTML,Design Thinking,Adobe XD,Prototyping,User Research,CSS",Visual Design,3,UX/UI Designer
+Bachelor,"AWS,Python,Node.js,SQL,C++",Software Development,0,Software Engineer
+Master,"CSS,Figma,Usability Testing,HTML,Prototyping,User Research","User Experience,Design,Visual Design",0,UX/UI Designer
+Master,"NumPy,TensorFlow,Data Visualization,PyTorch,Deep Learning,Tableau,SQL,Machine Learning,Statistics,Python","AI,Statistics,Machine Learning",2,Data Scientist
+Bachelor,"Terraform,Ansible,Kubernetes,Azure,Git,Jenkins,Docker",Cloud Computing,2,DevOps Engineer
+Bachelor,"Ethical Hacking,Network Security,Penetration Testing,Cryptography,Risk Assessment,Firewalls","Security,Ethical Hacking,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Prototyping,Design Thinking,User Research,Usability Testing,CSS,Adobe XD,Wireframing",Design,0,UX/UI Designer
+Bachelor,"Firewalls,Penetration Testing,Ethical Hacking,Cryptography,Python,SIEM","Risk Management,Ethical Hacking",2,Cybersecurity Analyst
+Bachelor,"Python,Linux,CI/CD,Jenkins,AWS,Terraform",System Administration,1,DevOps Engineer
+Bachelor,"Network Security,Firewalls,SIEM,Python,Risk Assessment,Linux","Risk Management,Network Protection,Security",2,Cybersecurity Analyst
+Master,"Azure,Git,Python,Docker,Bash,CI/CD,Linux,AWS",Infrastructure,2,DevOps Engineer
+Master,"Java,API Development,Python,SQL,React,JavaScript,AWS,Docker","Mobile Apps,Problem Solving,Web Development",0,Software Engineer
+Master,"Terraform,Kubernetes,Bash,Jenkins,AWS,Azure,Ansible,Docker,Git",Automation,3,DevOps Engineer
+Bachelor,"CSS,Design Thinking,Wireframing,Adobe XD,Usability Testing,Prototyping","Design,Visual Design",0,UX/UI Designer
+Bachelor,"Product Strategy,Data Analysis,SQL,Stakeholder Management,Scrum,Roadmap Planning,Agile","Product Development,Leadership,Innovation",0,Product Manager
+Master,"Python,Tableau,Machine Learning,Pandas,SQL,Statistics,Data Visualization,NumPy,TensorFlow,R","Machine Learning,Statistics,Data Analysis",1,Data Scientist
+Bachelor,"Firewalls,Penetration Testing,Network Security,Risk Assessment,Python,SIEM,Ethical Hacking,Cryptography,Linux","Network Protection,Risk Management,Security",3,Cybersecurity Analyst
+Bachelor,"Figma,HTML,User Research,Usability Testing,CSS,Design Thinking,Prototyping","Design,User Experience,Product Development",0,UX/UI Designer
+Bachelor,"AWS,Terraform,Linux,Azure,Jenkins,CI/CD,Python,Git,Bash",System Administration,2,DevOps Engineer
+Bachelor,"Roadmap Planning,SQL,Agile,Stakeholder Management,Leadership,Data Analysis",Leadership,0,Product Manager
+Bachelor,"Python,Node.js,Data Structures,Docker,SQL,Java,Algorithms,C++,AWS,React",Mobile Apps,1,Software Engineer
+Bachelor,"React,Node.js,AWS,Docker,Git,SQL,C++,API Development,Python","Problem Solving,Web Development,Software Development",0,Software Engineer
+Bachelor,"Design Thinking,CSS,Adobe XD,HTML,Figma","Design,User Experience",1,UX/UI Designer
+Master,"Cryptography,Ethical Hacking,Risk Assessment,SIEM,Python,Penetration Testing,Linux",Risk Management,0,Cybersecurity Analyst
+Bachelor,"Adobe XD,Wireframing,CSS,Usability Testing,HTML,User Research,Figma,Design Thinking,Prototyping",User Experience,1,UX/UI Designer
+Bachelor,"Stakeholder Management,User Research,Product Strategy,Leadership,Scrum,SQL,Roadmap Planning,Data Analysis,Agile",Strategy,0,Product Manager
+Master,"Adobe XD,Prototyping,HTML,Design Thinking,CSS",Product Development,0,UX/UI Designer
+Master,"Design Thinking,CSS,Prototyping,User Research,Usability Testing,Adobe XD","Visual Design,User Experience",0,UX/UI Designer
+Bachelor,"Kubernetes,Terraform,Jenkins,Git,Docker,Azure,CI/CD,Ansible,Bash","Infrastructure,Automation,System Administration",3,DevOps Engineer
+Master,"Jenkins,CI/CD,Linux,Docker,Terraform,AWS,Kubernetes,Azure,Python","System Administration,Cloud Computing,Infrastructure",1,DevOps Engineer
+Bachelor,"API Development,React,AWS,JavaScript,Java,Python,Docker,Algorithms,C++","Web Development,Software Development",1,Software Engineer
+Bachelor,"Penetration Testing,Firewalls,Python,Risk Assessment,Cryptography,SIEM",Ethical Hacking,1,Cybersecurity Analyst
+Master,"Figma,Prototyping,Wireframing,Adobe XD,CSS,User Research,Usability Testing",User Experience,0,UX/UI Designer
+Bachelor,"Terraform,Git,Azure,AWS,Ansible,Python,Bash","Cloud Computing,Automation",3,DevOps Engineer
+Master,"Agile,SQL,Leadership,User Research,Scrum,Product Strategy,Data Analysis",Strategy,3,Product Manager
+Master,"HTML,Usability Testing,Prototyping,CSS,Design Thinking","Visual Design,User Experience,Product Development",1,UX/UI Designer
+Bachelor,"Usability Testing,Wireframing,Figma,Adobe XD,User Research,HTML",Visual Design,0,UX/UI Designer
+Bachelor,"SQL,Product Strategy,User Research,Roadmap Planning,Stakeholder Management,Scrum",Strategy,0,Product Manager
+Bachelor,"Docker,Git,SQL,C++,JavaScript,React,Algorithms,AWS",Software Development,1,Software Engineer
+Master,"Scrum,User Research,Agile,SQL,Leadership,Roadmap Planning,Product Strategy,Stakeholder Management,Data Analysis","Product Development,Strategy",1,Product Manager
+PhD,"Deep Learning,SQL,Statistics,Python,Pandas,R,PyTorch,Machine Learning,Data Visualization,TensorFlow",Statistics,0,Data Scientist
+Bachelor,"Data Visualization,R,NumPy,SQL,Pandas,PyTorch,Python,TensorFlow,Deep Learning,Statistics","Research,Data Analysis",0,Data Scientist
+Bachelor,"AWS,Bash,Git,Linux,Ansible,Jenkins,Terraform,CI/CD,Docker,Kubernetes","Cloud Computing,Automation,System Administration",3,DevOps Engineer
+Master,"Roadmap Planning,Data Analysis,Agile,SQL,Scrum,Product Strategy","Strategy,Innovation",0,Product Manager
+Bachelor,"Terraform,Linux,Docker,Azure,Kubernetes,CI/CD,Python,Ansible","Automation,Infrastructure",0,DevOps Engineer
+Master,"Leadership,Product Strategy,SQL,Data Analysis,Roadmap Planning,Agile,Scrum,Stakeholder Management,User Research",Leadership,0,Product Manager
+Bachelor,"Linux,Python,Penetration Testing,Firewalls,Cryptography,SIEM,Risk Assessment","Risk Management,Ethical Hacking",3,Cybersecurity Analyst
+Bachelor,"SQL,PyTorch,NumPy,Pandas,Data Visualization,Machine Learning,TensorFlow,Statistics,R,Deep Learning","Research,AI,Data Analysis",2,Data Scientist
+Master,"Git,CI/CD,Terraform,Docker,Linux,AWS,Azure,Python","Infrastructure,Automation,Cloud Computing",0,DevOps Engineer
+Master,"Algorithms,API Development,Java,Docker,JavaScript,Data Structures,Node.js,AWS","Software Development,Mobile Apps,Web Development",0,Software Engineer
+Bachelor,"CI/CD,Ansible,Git,Terraform,Linux,Azure","Automation,Cloud Computing,Infrastructure",1,DevOps Engineer
+Master,"NumPy,R,TensorFlow,Python,Data Visualization,Deep Learning,Tableau,Pandas,PyTorch,Machine Learning","Research,Data Analysis",0,Data Scientist
+Bachelor,"PyTorch,R,Tableau,Machine Learning,Data Visualization,TensorFlow,NumPy,Pandas,Deep Learning","Data Analysis,Statistics",0,Data Scientist
+Master,"Docker,Linux,Python,Bash,Kubernetes,Azure","Automation,System Administration",1,DevOps Engineer
+Bachelor,"Product Strategy,User Research,Stakeholder Management,Agile,SQL,Roadmap Planning,Leadership,Scrum,Data Analysis","Leadership,Innovation,Strategy",1,Product Manager
+Master,"Machine Learning,Data Visualization,Deep Learning,Tableau,PyTorch,SQL","Data Analysis,Statistics,Machine Learning",1,Data Scientist
+Bachelor,"Stakeholder Management,Leadership,Data Analysis,SQL,User Research,Scrum,Agile,Product Strategy,Roadmap Planning","Product Development,Strategy,Leadership",1,Product Manager
+Bachelor,"Leadership,Product Strategy,User Research,Agile,Scrum,Data Analysis,SQL,Roadmap Planning","Innovation,Leadership,Strategy",0,Product Manager
+Master,"Data Structures,Java,React,API Development,Docker,Git,AWS,Node.js,Python","Problem Solving,Mobile Apps",1,Software Engineer
+Master,"API Development,Python,JavaScript,Git,Data Structures","Mobile Apps,Problem Solving",1,Software Engineer
+Master,"Deep Learning,Pandas,NumPy,TensorFlow,Data Visualization,Python",Data Analysis,0,Data Scientist
+Bachelor,"SIEM,Python,Ethical Hacking,Linux,Network Security,Firewalls,Risk Assessment,Cryptography",Security,0,Cybersecurity Analyst
+Master,"Terraform,Ansible,Azure,Docker,Jenkins,Bash,CI/CD,AWS",Cloud Computing,3,DevOps Engineer
+Bachelor,"User Research,HTML,Wireframing,Adobe XD,CSS,Prototyping","Visual Design,Product Development",0,UX/UI Designer
+Master,"CSS,Design Thinking,HTML,Figma,User Research,Prototyping,Adobe XD,Usability Testing,Wireframing","User Experience,Product Development,Design",1,UX/UI Designer
+Bachelor,"Data Structures,Algorithms,Java,AWS,Git",Web Development,2,Software Engineer
+Master,"Penetration Testing,Firewalls,SIEM,Python,Network Security,Risk Assessment,Ethical Hacking","Ethical Hacking,Risk Management,Security",0,Cybersecurity Analyst
+Master,"CI/CD,Python,Bash,Linux,Git,Ansible,Kubernetes,Docker","Cloud Computing,Automation",0,DevOps Engineer
+Bachelor,"Docker,SQL,Node.js,React,Java","Problem Solving,Mobile Apps",1,Software Engineer
+Master,"Agile,Roadmap Planning,Leadership,SQL,Data Analysis,Scrum,User Research,Stakeholder Management,Product Strategy","Innovation,Strategy,Leadership",1,Product Manager
+Master,"Product Strategy,Roadmap Planning,Agile,Data Analysis,Leadership,User Research",Leadership,3,Product Manager
+Bachelor,"Python,Network Security,Firewalls,Risk Assessment,Cryptography,Ethical Hacking,Penetration Testing,Linux,SIEM","Security,Network Protection",1,Cybersecurity Analyst
+Bachelor,"Python,SIEM,Cryptography,Linux,Firewalls,Network Security,Ethical Hacking",Ethical Hacking,0,Cybersecurity Analyst
+Master,"SQL,Data Visualization,Machine Learning,R,Python,Pandas,NumPy","Data Analysis,Statistics",1,Data Scientist
+Bachelor,"Adobe XD,Figma,Usability Testing,HTML,User Research",Visual Design,2,UX/UI Designer
+Bachelor,"Machine Learning,Python,PyTorch,Deep Learning,R,TensorFlow,Pandas,Data Visualization,SQL","Data Analysis,AI",1,Data Scientist
+Master,"R,PyTorch,Tableau,Pandas,TensorFlow,SQL","Data Analysis,Statistics,Research",1,Data Scientist
+Bachelor,"Git,CI/CD,AWS,Jenkins,Linux,Bash,Ansible","Automation,System Administration",0,DevOps Engineer
+Master,"Network Security,Firewalls,Python,Ethical Hacking,SIEM,Linux,Risk Assessment",Security,0,Cybersecurity Analyst
+Bachelor,"Agile,Product Strategy,Leadership,Roadmap Planning,SQL,Data Analysis",Leadership,1,Product Manager
+Master,"Firewalls,SIEM,Linux,Risk Assessment,Network Security,Cryptography,Penetration Testing","Ethical Hacking,Network Protection,Risk Management",1,Cybersecurity Analyst
+Master,"Data Structures,API Development,Java,Docker,Node.js,Algorithms,SQL,AWS","Problem Solving,Software Development,Mobile Apps",0,Software Engineer
+Bachelor,"Java,AWS,Data Structures,JavaScript,API Development,Git,Algorithms,SQL,Docker,Python","Mobile Apps,Web Development,Problem Solving",0,Software Engineer
+Bachelor,"Risk Assessment,Linux,Ethical Hacking,Penetration Testing,Firewalls,Cryptography",Security,3,Cybersecurity Analyst
+Bachelor,"HTML,Design Thinking,CSS,Wireframing,Figma,Usability Testing","Design,Visual Design,Product Development",1,UX/UI Designer
+Bachelor,"SIEM,Penetration Testing,Network Security,Cryptography,Ethical Hacking,Firewalls,Risk Assessment,Linux","Security,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"JavaScript,AWS,Algorithms,Git,SQL,Python,API Development,Node.js","Mobile Apps,Web Development",0,Software Engineer
+Bachelor,"Git,CI/CD,Ansible,Bash,Terraform,Docker,Linux,Kubernetes,AWS,Jenkins","Automation,Cloud Computing",2,DevOps Engineer
+PhD,"PyTorch,NumPy,SQL,Statistics,Deep Learning,TensorFlow,Machine Learning,Data Visualization,Python","Statistics,Machine Learning",1,Data Scientist
+Bachelor,"Ethical Hacking,Risk Assessment,Cryptography,Network Security,Firewalls,Penetration Testing,Python,SIEM","Ethical Hacking,Network Protection,Security",0,Cybersecurity Analyst
+Bachelor,"Wireframing,Figma,HTML,Prototyping,Adobe XD,User Research","User Experience,Visual Design,Product Development",1,UX/UI Designer
+Master,"SIEM,Network Security,Ethical Hacking,Penetration Testing,Linux,Firewalls,Python,Cryptography",Network Protection,1,Cybersecurity Analyst
+Bachelor,"Python,Linux,SIEM,Ethical Hacking,Network Security,Cryptography","Security,Risk Management",2,Cybersecurity Analyst
+Master,"Pandas,Data Visualization,Python,NumPy,Tableau,TensorFlow,Statistics,R","Machine Learning,Statistics",3,Data Scientist
+Bachelor,"AWS,Git,CI/CD,Docker,Jenkins,Kubernetes","Cloud Computing,Automation",3,DevOps Engineer
+Bachelor,"CSS,Wireframing,Usability Testing,Design Thinking,Prototyping,Adobe XD,Figma,User Research,HTML",Product Development,1,UX/UI Designer
+Bachelor,"Usability Testing,Adobe XD,HTML,Prototyping,Design Thinking,User Research,Figma","Design,Visual Design,Product Development",3,UX/UI Designer
+Bachelor,"Python,Firewalls,Risk Assessment,Cryptography,Linux,Ethical Hacking,Network Security,SIEM","Ethical Hacking,Network Protection,Security",0,Cybersecurity Analyst
+Bachelor,"Bash,AWS,Kubernetes,Jenkins,CI/CD,Azure,Git,Linux","Infrastructure,Automation",0,DevOps Engineer
+Master,"Git,Linux,Terraform,Jenkins,Kubernetes,CI/CD","Cloud Computing,System Administration,Infrastructure",0,DevOps Engineer
+Bachelor,"User Research,Product Strategy,Leadership,Roadmap Planning,Scrum,SQL,Data Analysis","Product Development,Leadership",1,Product Manager
+Bachelor,"Scrum,User Research,Data Analysis,Product Strategy,Agile,SQL,Stakeholder Management,Roadmap Planning",Innovation,3,Product Manager
+Master,"R,Tableau,SQL,Python,TensorFlow,Machine Learning,Data Visualization,PyTorch,Deep Learning,Pandas",Research,0,Data Scientist
+Bachelor,"Python,Git,AWS,Jenkins,Ansible,Docker,Azure,CI/CD,Linux","System Administration,Cloud Computing",1,DevOps Engineer
+Bachelor,"Roadmap Planning,Product Strategy,Scrum,Stakeholder Management,User Research,SQL,Data Analysis","Leadership,Innovation,Product Development",3,Product Manager
+Master,"SQL,Data Analysis,Leadership,Scrum,Stakeholder Management,Agile,Product Strategy,User Research,Roadmap Planning","Leadership,Product Development,Innovation",0,Product Manager
+Bachelor,"Pandas,Statistics,R,Data Visualization,PyTorch,Tableau","Statistics,Research,AI",2,Data Scientist
+Master,"SQL,Stakeholder Management,Leadership,Agile,User Research,Data Analysis,Roadmap Planning,Product Strategy,Scrum","Product Development,Strategy,Innovation",0,Product Manager
+Bachelor,"Network Security,Ethical Hacking,SIEM,Python,Firewalls,Linux,Penetration Testing","Risk Management,Ethical Hacking",2,Cybersecurity Analyst
+Bachelor,"Agile,Leadership,Scrum,SQL,User Research,Product Strategy","Strategy,Leadership",2,Product Manager
+Bachelor,"C++,Python,Data Structures,Java,Node.js","Mobile Apps,Software Development,Web Development",0,Software Engineer
+Bachelor,"Data Structures,Node.js,Git,React,Docker,JavaScript,Python,AWS,C++","Web Development,Problem Solving",1,Software Engineer
+Master,"Azure,Ansible,Bash,Git,Terraform,CI/CD","Infrastructure,Automation,Cloud Computing",1,DevOps Engineer
+Master,"PyTorch,Machine Learning,R,Python,NumPy,TensorFlow,SQL,Pandas,Data Visualization,Tableau","AI,Research,Data Analysis",1,Data Scientist
+Bachelor,"CI/CD,Terraform,Kubernetes,Jenkins,Linux,Ansible","Infrastructure,System Administration,Automation",0,DevOps Engineer
+Bachelor,"Linux,Python,CI/CD,Azure,Bash,Terraform,AWS,Kubernetes,Git,Docker","Cloud Computing,Infrastructure",0,DevOps Engineer
+Bachelor,"Prototyping,Wireframing,Adobe XD,Figma,Usability Testing,CSS,HTML",Design,1,UX/UI Designer
+Master,"Scrum,Agile,Product Strategy,Stakeholder Management,Roadmap Planning,User Research,SQL,Leadership,Data Analysis","Leadership,Innovation,Product Development",1,Product Manager
+Master,"TensorFlow,Tableau,PyTorch,NumPy,SQL,R,Statistics,Data Visualization,Deep Learning,Pandas",Data Analysis,0,Data Scientist
+Master,"Docker,React,API Development,AWS,JavaScript,C++,Java,Python","Software Development,Problem Solving,Mobile Apps",1,Software Engineer
+Master,"Azure,Ansible,Kubernetes,Jenkins,Docker,Bash,Python","System Administration,Automation",0,DevOps Engineer
+Bachelor,"Ethical Hacking,Firewalls,Linux,Network Security,SIEM,Risk Assessment",Network Protection,0,Cybersecurity Analyst
+Bachelor,"Python,Network Security,Risk Assessment,Penetration Testing,SIEM,Cryptography,Firewalls","Ethical Hacking,Network Protection,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Design Thinking,Prototyping,Wireframing,Usability Testing,Figma,User Research,CSS,Adobe XD","User Experience,Design",2,UX/UI Designer
+Master,"Ethical Hacking,Linux,Firewalls,Penetration Testing,SIEM,Cryptography,Python,Risk Assessment","Risk Management,Ethical Hacking,Network Protection",2,Cybersecurity Analyst
+Bachelor,"Penetration Testing,SIEM,Ethical Hacking,Firewalls,Network Security,Risk Assessment,Python","Security,Risk Management",1,Cybersecurity Analyst
+Bachelor,"Linux,Network Security,SIEM,Firewalls,Cryptography,Risk Assessment,Python,Ethical Hacking",Network Protection,0,Cybersecurity Analyst
+Master,"User Research,CSS,Adobe XD,HTML,Usability Testing,Prototyping,Figma",Visual Design,1,UX/UI Designer
+Master,"Tableau,PyTorch,Statistics,SQL,Data Visualization,R,Pandas,Machine Learning,NumPy","Data Analysis,Machine Learning",1,Data Scientist
+Master,"Python,Network Security,Linux,Risk Assessment,Ethical Hacking",Risk Management,2,Cybersecurity Analyst
+Bachelor,"Python,Java,Algorithms,C++,Docker","Mobile Apps,Software Development",0,Software Engineer
+Master,"SQL,PyTorch,Deep Learning,Machine Learning,TensorFlow,NumPy,R,Python,Statistics,Data Visualization","Research,Data Analysis",1,Data Scientist
+Master,"Azure,AWS,Ansible,Kubernetes,Linux,CI/CD,Terraform","Infrastructure,System Administration,Automation",1,DevOps Engineer
+Bachelor,"Scrum,SQL,User Research,Product Strategy,Agile,Data Analysis","Strategy,Leadership",2,Product Manager
+PhD,"Deep Learning,Statistics,R,TensorFlow,NumPy,Python,Data Visualization","Statistics,Data Analysis",0,Data Scientist
+Master,"Design Thinking,User Research,Usability Testing,Prototyping,HTML,Adobe XD,Wireframing,CSS",User Experience,0,UX/UI Designer
+Master,"Linux,Network Security,Firewalls,Ethical Hacking,Python,Risk Assessment,Penetration Testing",Network Protection,0,Cybersecurity Analyst
+Master,"Data Visualization,R,Python,Statistics,SQL,Deep Learning,Pandas,TensorFlow,Machine Learning,PyTorch","Data Analysis,Machine Learning,AI",0,Data Scientist
+Bachelor,"Data Analysis,Stakeholder Management,Leadership,Product Strategy,User Research,Roadmap Planning",Leadership,1,Product Manager
+Bachelor,"Jenkins,Terraform,Git,Kubernetes,Linux,Python,AWS","System Administration,Infrastructure,Cloud Computing",3,DevOps Engineer
+Bachelor,"Data Analysis,User Research,Stakeholder Management,Roadmap Planning,Leadership,Product Strategy","Innovation,Strategy",1,Product Manager
+Bachelor,"Python,SIEM,Risk Assessment,Firewalls,Network Security","Risk Management,Network Protection,Security",0,Cybersecurity Analyst
+Master,"Network Security,Python,Firewalls,Penetration Testing,SIEM,Cryptography,Risk Assessment,Linux","Ethical Hacking,Security,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Design Thinking,Figma,CSS,Wireframing,HTML,Prototyping,Adobe XD,Usability Testing","User Experience,Visual Design",0,UX/UI Designer
+Master,"SIEM,Python,Firewalls,Network Security,Cryptography","Security,Network Protection,Ethical Hacking",0,Cybersecurity Analyst
+Master,"SQL,Python,Deep Learning,Statistics,PyTorch,Pandas,Tableau,Machine Learning,NumPy","Statistics,Data Analysis",2,Data Scientist
+Master,"SQL,Roadmap Planning,User Research,Data Analysis,Agile,Leadership,Stakeholder Management,Product Strategy,Scrum","Strategy,Product Development,Innovation",0,Product Manager
+PhD,"R,Python,Pandas,Tableau,PyTorch,TensorFlow,Data Visualization,Machine Learning,Statistics",Statistics,3,Data Scientist
+Bachelor,"Roadmap Planning,User Research,Product Strategy,Scrum,Stakeholder Management,SQL,Leadership,Data Analysis,Agile","Product Development,Leadership,Strategy",2,Product Manager
+Master,"Stakeholder Management,User Research,Data Analysis,Product Strategy,Roadmap Planning,Scrum,SQL","Product Development,Innovation,Strategy",2,Product Manager
+Bachelor,"Design Thinking,Wireframing,Figma,Prototyping,Adobe XD","Product Development,User Experience,Design",0,UX/UI Designer
+Master,"Penetration Testing,Risk Assessment,Firewalls,Ethical Hacking,Linux,Network Security,Cryptography,Python","Network Protection,Security,Ethical Hacking",1,Cybersecurity Analyst
+Bachelor,"Deep Learning,Tableau,R,Statistics,Data Visualization,Machine Learning,PyTorch,SQL",Research,0,Data Scientist
+Bachelor,"Usability Testing,Adobe XD,Design Thinking,Prototyping,Wireframing,User Research,Figma,CSS",Product Development,3,UX/UI Designer
+Master,"Design Thinking,Usability Testing,Wireframing,CSS,Adobe XD,User Research,Prototyping,HTML,Figma",Design,2,UX/UI Designer
+Master,"NumPy,SQL,Machine Learning,Data Visualization,TensorFlow,Tableau","Statistics,Machine Learning,AI",0,Data Scientist
+Master,"Network Security,Ethical Hacking,Linux,Firewalls,Risk Assessment",Ethical Hacking,0,Cybersecurity Analyst
+Bachelor,"Algorithms,React,AWS,Python,API Development,Node.js,Docker,Git",Web Development,1,Software Engineer
+Bachelor,"Bash,AWS,Docker,Git,Azure,CI/CD,Linux,Terraform","System Administration,Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"Agile,Scrum,Data Analysis,SQL,Stakeholder Management,User Research,Product Strategy,Leadership,Roadmap Planning","Strategy,Innovation,Leadership",3,Product Manager
+Bachelor,"Agile,Product Strategy,SQL,Scrum,Data Analysis,Leadership","Product Development,Innovation,Leadership",0,Product Manager
+Bachelor,"Leadership,SQL,Product Strategy,Agile,Stakeholder Management,User Research,Data Analysis,Roadmap Planning","Innovation,Product Development",1,Product Manager
+Bachelor,"Algorithms,Node.js,Python,API Development,Git,Data Structures,C++,JavaScript,React,Java",Web Development,1,Software Engineer
+Master,"Algorithms,Python,Docker,API Development,JavaScript,Node.js,AWS,React,SQL","Problem Solving,Web Development",0,Software Engineer
+Master,"Data Analysis,Stakeholder Management,Agile,Scrum,Roadmap Planning,SQL,User Research,Product Strategy","Product Development,Innovation,Leadership",1,Product Manager
+PhD,"Deep Learning,Pandas,TensorFlow,R,PyTorch,Machine Learning,Tableau,Python,NumPy,SQL","Statistics,AI",3,Data Scientist
+Bachelor,"Ethical Hacking,Cryptography,Risk Assessment,Python,SIEM,Penetration Testing,Linux",Network Protection,3,Cybersecurity Analyst
+Bachelor,"Cryptography,Firewalls,Network Security,Penetration Testing,Risk Assessment",Risk Management,0,Cybersecurity Analyst
+Master,"Linux,AWS,Terraform,Bash,Azure,CI/CD,Docker,Kubernetes","Infrastructure,Cloud Computing,Automation",0,DevOps Engineer
+Master,"Firewalls,Cryptography,Linux,SIEM,Ethical Hacking","Security,Ethical Hacking,Network Protection",1,Cybersecurity Analyst
+Bachelor,"Usability Testing,Adobe XD,CSS,Figma,HTML","User Experience,Product Development",0,UX/UI Designer
+Master,"Network Security,Penetration Testing,Cryptography,Linux,Ethical Hacking,Risk Assessment,SIEM","Ethical Hacking,Network Protection,Risk Management",2,Cybersecurity Analyst
+Bachelor,"Cryptography,SIEM,Risk Assessment,Penetration Testing,Python,Firewalls","Network Protection,Ethical Hacking,Security",0,Cybersecurity Analyst
+Master,"User Research,Data Analysis,Agile,Stakeholder Management,SQL,Product Strategy,Leadership","Innovation,Leadership,Product Development",1,Product Manager
+Master,"User Research,SQL,Leadership,Stakeholder Management,Data Analysis,Product Strategy","Product Development,Strategy,Leadership",0,Product Manager
+Bachelor,"Network Security,Linux,Python,Ethical Hacking,Cryptography,Penetration Testing,SIEM,Risk Assessment,Firewalls",Ethical Hacking,0,Cybersecurity Analyst
+Master,"R,Python,SQL,Data Visualization,Statistics,NumPy,TensorFlow,Pandas,Deep Learning","Research,Data Analysis",1,Data Scientist
+Master,"Leadership,Roadmap Planning,Data Analysis,Product Strategy,Agile,User Research,Scrum,Stakeholder Management,SQL","Leadership,Innovation",0,Product Manager
+Master,"Deep Learning,Pandas,PyTorch,Machine Learning,Data Visualization,TensorFlow,SQL,Tableau,Statistics,R","Statistics,AI,Machine Learning",0,Data Scientist
+Master,"Jenkins,Git,Terraform,CI/CD,Docker,AWS,Kubernetes,Python",Cloud Computing,0,DevOps Engineer
+Bachelor,"Leadership,Roadmap Planning,Data Analysis,Stakeholder Management,Product Strategy,Agile,SQL,Scrum,User Research","Innovation,Strategy,Leadership",0,Product Manager
+Bachelor,"Design Thinking,User Research,Adobe XD,HTML,Prototyping,Wireframing,Figma",Design,0,UX/UI Designer
+Bachelor,"HTML,Usability Testing,Prototyping,Design Thinking,CSS","Product Development,User Experience,Visual Design",0,UX/UI Designer
+Bachelor,"User Research,Design Thinking,CSS,Prototyping,Usability Testing,Adobe XD,Figma","Design,Product Development",2,UX/UI Designer
+Master,"Stakeholder Management,User Research,Product Strategy,Data Analysis,Leadership,SQL,Agile,Roadmap Planning,Scrum","Strategy,Product Development",0,Product Manager
+Master,"Kubernetes,Git,Python,Azure,Linux,CI/CD,Ansible,Bash","Automation,System Administration,Cloud Computing",2,DevOps Engineer
+Master,"Cryptography,Python,Linux,Risk Assessment,Network Security,Ethical Hacking,Penetration Testing",Security,2,Cybersecurity Analyst
+Bachelor,"Firewalls,Python,Penetration Testing,Cryptography,Network Security,SIEM,Ethical Hacking","Network Protection,Security",1,Cybersecurity Analyst
+Bachelor,"Terraform,Python,Kubernetes,Ansible,Linux,Bash,Jenkins","Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"CSS,Adobe XD,User Research,Figma,Usability Testing,Design Thinking,HTML,Wireframing","Design,User Experience,Visual Design",1,UX/UI Designer
+Master,"SIEM,Python,Ethical Hacking,Cryptography,Firewalls,Linux,Network Security,Risk Assessment","Risk Management,Ethical Hacking,Network Protection",2,Cybersecurity Analyst
+Master,"Terraform,Jenkins,Azure,Python,AWS,Ansible,CI/CD,Linux","System Administration,Automation,Cloud Computing",1,DevOps Engineer
+Master,"Figma,User Research,Design Thinking,Wireframing,Adobe XD,HTML,CSS,Prototyping,Usability Testing","User Experience,Product Development",2,UX/UI Designer
+Bachelor,"HTML,Adobe XD,Design Thinking,User Research,Figma,CSS,Usability Testing,Prototyping","Design,Visual Design",0,UX/UI Designer
+Bachelor,"CSS,Figma,User Research,Usability Testing,Design Thinking,HTML,Adobe XD,Wireframing","User Experience,Product Development,Design",2,UX/UI Designer
+Bachelor,"Design Thinking,User Research,Wireframing,CSS,Usability Testing,Figma","Visual Design,Design,User Experience",2,UX/UI Designer
+Master,"SQL,Deep Learning,Tableau,TensorFlow,Python,Machine Learning,Statistics,NumPy",Statistics,0,Data Scientist
+Bachelor,"CSS,Prototyping,Wireframing,Design Thinking,User Research","Design,Visual Design",0,UX/UI Designer
+Bachelor,"Adobe XD,Figma,Design Thinking,Wireframing,User Research,CSS","Visual Design,Product Development,User Experience",0,UX/UI Designer
+Bachelor,"Cryptography,Ethical Hacking,Network Security,Linux,Risk Assessment,Python,SIEM","Security,Risk Management,Network Protection",1,Cybersecurity Analyst
+Master,"Product Strategy,Leadership,Stakeholder Management,Agile,Data Analysis,Scrum,User Research,SQL,Roadmap Planning","Product Development,Leadership,Strategy",2,Product Manager
+Master,"Pandas,TensorFlow,Data Visualization,Python,Machine Learning,Tableau,PyTorch,NumPy,Statistics,R",Statistics,3,Data Scientist
+Bachelor,"Python,Ethical Hacking,SIEM,Firewalls,Cryptography,Risk Assessment,Network Security",Security,1,Cybersecurity Analyst
+Bachelor,"Usability Testing,User Research,Design Thinking,HTML,CSS,Wireframing,Prototyping","Product Development,Design",1,UX/UI Designer
+Bachelor,"Wireframing,Figma,Prototyping,CSS,Usability Testing,Adobe XD,HTML,User Research,Design Thinking","User Experience,Product Development",0,UX/UI Designer
+Bachelor,"Figma,User Research,Usability Testing,Wireframing,Adobe XD,Design Thinking,Prototyping,CSS",Product Development,1,UX/UI Designer
+Bachelor,"AWS,Docker,Algorithms,Java,Git,React","Web Development,Problem Solving",2,Software Engineer
+Bachelor,"Node.js,SQL,Git,JavaScript,C++,Java","Problem Solving,Web Development,Mobile Apps",1,Software Engineer
+Master,"Design Thinking,User Research,Wireframing,CSS,HTML,Usability Testing,Adobe XD,Figma","Visual Design,User Experience,Product Development",0,UX/UI Designer
+Bachelor,"C++,Data Structures,JavaScript,SQL,AWS,Docker,API Development,React",Problem Solving,1,Software Engineer
+Bachelor,"Product Strategy,Leadership,User Research,Agile,Scrum,SQL,Stakeholder Management,Roadmap Planning","Product Development,Strategy",0,Product Manager
+Bachelor,"Agile,Scrum,Roadmap Planning,Product Strategy,User Research,Data Analysis,Stakeholder Management,SQL","Leadership,Innovation,Product Development",0,Product Manager
+Bachelor,"SIEM,Risk Assessment,Network Security,Python,Linux,Cryptography,Firewalls,Ethical Hacking","Security,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Network Security,Python,Cryptography,Ethical Hacking,SIEM,Linux,Risk Assessment,Penetration Testing","Risk Management,Network Protection",1,Cybersecurity Analyst
+Master,"AWS,C++,Python,SQL,JavaScript,Data Structures","Web Development,Problem Solving,Mobile Apps",0,Software Engineer
+Bachelor,"Cryptography,Network Security,Python,SIEM,Firewalls,Ethical Hacking,Penetration Testing,Linux,Risk Assessment","Risk Management,Network Protection,Security",0,Cybersecurity Analyst
+Bachelor,"Product Strategy,Scrum,Agile,Leadership,Roadmap Planning,SQL","Product Development,Strategy",0,Product Manager
+Master,"Python,NumPy,TensorFlow,PyTorch,Deep Learning,SQL,Tableau,Data Visualization","Data Analysis,Machine Learning,Statistics",1,Data Scientist
+Master,"Data Analysis,Roadmap Planning,Scrum,Stakeholder Management,User Research,Product Strategy","Leadership,Product Development",1,Product Manager
+Bachelor,"Network Security,Python,Penetration Testing,Cryptography,Ethical Hacking","Ethical Hacking,Security,Risk Management",0,Cybersecurity Analyst
+Bachelor,"Adobe XD,User Research,Prototyping,Figma,Usability Testing,HTML,Design Thinking,CSS",User Experience,0,UX/UI Designer
+Master,"TensorFlow,Tableau,Deep Learning,Pandas,Statistics,Machine Learning,Data Visualization,PyTorch","Data Analysis,Statistics",2,Data Scientist
+Bachelor,"User Research,Agile,Leadership,Product Strategy,Roadmap Planning,SQL,Data Analysis,Scrum",Leadership,0,Product Manager
+Bachelor,"Agile,SQL,Leadership,Product Strategy,Data Analysis,Scrum,User Research,Roadmap Planning","Innovation,Product Development,Leadership",1,Product Manager
+Bachelor,"CSS,Figma,User Research,Usability Testing,Design Thinking,Adobe XD,HTML","Design,Visual Design",0,UX/UI Designer
+Master,"Usability Testing,HTML,Adobe XD,CSS,User Research,Design Thinking",Visual Design,0,UX/UI Designer
+Bachelor,"Usability Testing,CSS,User Research,HTML,Adobe XD,Wireframing,Figma,Design Thinking","User Experience,Design,Product Development",0,UX/UI Designer
+Bachelor,"Terraform,CI/CD,Docker,Jenkins,Bash,Linux,Git,Azure,AWS","System Administration,Infrastructure,Cloud Computing",1,DevOps Engineer
+PhD,"SQL,Machine Learning,Data Visualization,TensorFlow,PyTorch,NumPy,R,Tableau,Pandas,Deep Learning","Research,Data Analysis",3,Data Scientist
+Master,"TensorFlow,Statistics,R,Data Visualization,Pandas,PyTorch,Python,Tableau,Deep Learning",Statistics,2,Data Scientist
+Master,"Docker,Node.js,Data Structures,C++,Python,Java,AWS,JavaScript,Git,React",Mobile Apps,1,Software Engineer
+Bachelor,"Scrum,Product Strategy,Roadmap Planning,Leadership,Data Analysis,Agile,User Research",Product Development,3,Product Manager
+Bachelor,"Ansible,Kubernetes,Bash,Jenkins,AWS,Python,Docker,CI/CD","Automation,Cloud Computing",1,DevOps Engineer
+Bachelor,"Algorithms,Java,Docker,JavaScript,AWS,API Development,Python",Mobile Apps,0,Software Engineer
+Bachelor,"Azure,Ansible,Python,Git,AWS,Linux,CI/CD,Docker,Jenkins,Terraform",Automation,0,DevOps Engineer
+Master,"Git,JavaScript,Data Structures,API Development,Algorithms,C++,Docker,Java,Python","Mobile Apps,Web Development",0,Software Engineer
+Master,"Cryptography,Network Security,Risk Assessment,Python,Linux,Ethical Hacking,Penetration Testing",Ethical Hacking,1,Cybersecurity Analyst
+Master,"Design Thinking,Prototyping,Usability Testing,HTML,Figma,User Research",Product Development,1,UX/UI Designer
+Bachelor,"Ethical Hacking,Python,Firewalls,Cryptography,Network Security",Security,2,Cybersecurity Analyst
+Bachelor,"Bash,CI/CD,Docker,Linux,Kubernetes,Python,AWS,Terraform,Ansible","Cloud Computing,Infrastructure",1,DevOps Engineer
+Bachelor,"Firewalls,Python,Linux,Penetration Testing,SIEM,Cryptography",Network Protection,0,Cybersecurity Analyst
+Master,"Node.js,API Development,Docker,JavaScript,React","Web Development,Mobile Apps",1,Software Engineer
+PhD,"Machine Learning,Deep Learning,Pandas,PyTorch,TensorFlow,Tableau,Statistics",Statistics,1,Data Scientist
+Bachelor,"Terraform,AWS,Git,Azure,Linux,CI/CD,Ansible,Docker,Jenkins",System Administration,1,DevOps Engineer
+Master,"Git,Bash,CI/CD,Jenkins,Ansible,Kubernetes",Automation,0,DevOps Engineer
+Bachelor,"Cryptography,Ethical Hacking,Penetration Testing,Linux,Network Security,SIEM,Risk Assessment,Python","Network Protection,Risk Management",1,Cybersecurity Analyst
+Bachelor,"CI/CD,Ansible,Kubernetes,AWS,Azure,Jenkins,Bash","Automation,Cloud Computing",0,DevOps Engineer
+Bachelor,"Python,Deep Learning,Pandas,Tableau,NumPy,Machine Learning,R,Statistics,TensorFlow",Data Analysis,2,Data Scientist
+Bachelor,"Git,SQL,API Development,C++,JavaScript,Node.js,React","Mobile Apps,Web Development",0,Software Engineer
+Bachelor,"Data Analysis,Scrum,Product Strategy,Roadmap Planning,Leadership,SQL,Stakeholder Management","Leadership,Product Development",0,Product Manager
+Bachelor,"Wireframing,Prototyping,Figma,CSS,Usability Testing,HTML,User Research,Adobe XD,Design Thinking",Visual Design,1,UX/UI Designer
+Master,"CSS,Figma,Wireframing,Adobe XD,Usability Testing,Prototyping,Design Thinking,User Research,HTML","User Experience,Visual Design,Product Development",2,UX/UI Designer
+Bachelor,"Data Analysis,Scrum,Stakeholder Management,Product Strategy,Leadership,Roadmap Planning,Agile",Leadership,0,Product Manager
+Bachelor,"Leadership,Scrum,Agile,Roadmap Planning,User Research,Data Analysis","Leadership,Product Development",1,Product Manager
+Master,"NumPy,TensorFlow,Machine Learning,SQL,Data Visualization,R,Statistics",Research,2,Data Scientist
+PhD,"Statistics,NumPy,Deep Learning,Machine Learning,Python,R,Data Visualization,Pandas,Tableau",Machine Learning,0,Data Scientist
+Master,"Deep Learning,SQL,Statistics,Python,R,Data Visualization,PyTorch","Machine Learning,AI,Data Analysis",3,Data Scientist
+Master,"Machine Learning,Tableau,Statistics,NumPy,Pandas,SQL",Statistics,0,Data Scientist
+Bachelor,"Ethical Hacking,Penetration Testing,Cryptography,SIEM,Firewalls,Python","Security,Ethical Hacking,Network Protection",3,Cybersecurity Analyst
+Master,"CI/CD,Docker,Ansible,Bash,Terraform,Kubernetes,Linux",Infrastructure,0,DevOps Engineer
+Master,"Python,Pandas,Tableau,R,Data Visualization,NumPy,PyTorch,Deep Learning,SQL,Statistics","Statistics,Research",0,Data Scientist
+Bachelor,"CSS,Wireframing,Usability Testing,Adobe XD,Design Thinking",Product Development,0,UX/UI Designer
+Bachelor,"Terraform,Docker,Kubernetes,Ansible,CI/CD,Git,Python,Linux,Azure,AWS","Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"Agile,SQL,Leadership,User Research,Product Strategy,Data Analysis,Scrum,Roadmap Planning","Strategy,Product Development,Leadership",1,Product Manager
+Master,"AWS,Kubernetes,CI/CD,Ansible,Docker,Linux","System Administration,Automation,Cloud Computing",1,DevOps Engineer
+Bachelor,"Python,SQL,Docker,React,Data Structures,Git,JavaScript,C++","Web Development,Problem Solving",0,Software Engineer
+Bachelor,"NumPy,Deep Learning,PyTorch,SQL,R,Machine Learning,Python,Statistics,TensorFlow,Tableau","AI,Research",0,Data Scientist
+Master,"Network Security,SIEM,Cryptography,Linux,Risk Assessment,Ethical Hacking,Penetration Testing",Ethical Hacking,1,Cybersecurity Analyst
+PhD,"Deep Learning,R,Pandas,PyTorch,Statistics,SQL,Tableau,Data Visualization",Statistics,0,Data Scientist
+Master,"User Research,Agile,Scrum,Stakeholder Management,Product Strategy,SQL,Data Analysis,Roadmap Planning,Leadership","Leadership,Product Development",2,Product Manager
+Master,"Risk Assessment,SIEM,Linux,Ethical Hacking,Penetration Testing","Network Protection,Ethical Hacking,Security",3,Cybersecurity Analyst
+Bachelor,"Agile,Leadership,Roadmap Planning,User Research,Stakeholder Management,Product Strategy,Data Analysis,SQL",Product Development,0,Product Manager
+Bachelor,"Penetration Testing,SIEM,Python,Ethical Hacking,Network Security,Linux,Firewalls,Risk Assessment,Cryptography",Ethical Hacking,0,Cybersecurity Analyst
+Bachelor,"Design Thinking,CSS,Adobe XD,Prototyping,HTML","Visual Design,User Experience",1,UX/UI Designer
+Bachelor,"Java,JavaScript,AWS,Algorithms,React","Problem Solving,Mobile Apps",3,Software Engineer
+Bachelor,"Python,Node.js,Java,API Development,Data Structures,Docker,SQL,AWS,JavaScript,C++",Web Development,1,Software Engineer
+Bachelor,"Prototyping,Design Thinking,User Research,HTML,Adobe XD,Wireframing,Figma","User Experience,Design",1,UX/UI Designer
+Bachelor,"Python,Jenkins,Kubernetes,Git,Azure,AWS,Docker,Linux,Ansible","Automation,Cloud Computing",1,DevOps Engineer
+Master,"React,Node.js,SQL,Java,Docker,C++,AWS,API Development,Algorithms,Git",Mobile Apps,0,Software Engineer
+Bachelor,"HTML,Prototyping,Wireframing,Usability Testing,User Research,Figma","Visual Design,Product Development,User Experience",1,UX/UI Designer
+Master,"Bash,AWS,Jenkins,Linux,Git,Terraform,Ansible","Cloud Computing,Automation",2,DevOps Engineer
+Bachelor,"CSS,HTML,User Research,Adobe XD,Figma,Prototyping",Design,2,UX/UI Designer
+Master,"AWS,Terraform,Ansible,Docker,Azure,Kubernetes,Python","Automation,System Administration,Infrastructure",0,DevOps Engineer
+Master,"Penetration Testing,Ethical Hacking,Network Security,SIEM,Linux","Ethical Hacking,Risk Management,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Ansible,Terraform,Linux,Jenkins,Azure,Bash,Python,Git,CI/CD","System Administration,Cloud Computing",0,DevOps Engineer
+Master,"Bash,Kubernetes,Ansible,Jenkins,CI/CD,AWS,Git","Automation,Cloud Computing,Infrastructure",2,DevOps Engineer
+Master,"Machine Learning,Pandas,Deep Learning,TensorFlow,PyTorch,Statistics,Python,SQL,NumPy","Statistics,AI,Machine Learning",1,Data Scientist
+Master,"Network Security,Python,Penetration Testing,Linux,Cryptography","Risk Management,Network Protection",0,Cybersecurity Analyst
+Master,"PyTorch,NumPy,TensorFlow,R,Deep Learning,Statistics,SQL,Tableau","Statistics,Data Analysis",0,Data Scientist
+Master,"User Research,Wireframing,Prototyping,Design Thinking,HTML,Usability Testing",Product Development,0,UX/UI Designer
+Bachelor,"CSS,Figma,Prototyping,HTML,Wireframing,Design Thinking,Adobe XD","Visual Design,Design",1,UX/UI Designer
+Master,"SQL,Data Visualization,Deep Learning,TensorFlow,Statistics,Pandas","Research,Data Analysis,Machine Learning",1,Data Scientist
+Bachelor,"Ethical Hacking,Risk Assessment,Network Security,Cryptography,Python,Linux","Network Protection,Ethical Hacking",0,Cybersecurity Analyst
+Master,"Risk Assessment,SIEM,Cryptography,Network Security,Ethical Hacking","Ethical Hacking,Security",0,Cybersecurity Analyst
+Bachelor,"User Research,Wireframing,Adobe XD,CSS,HTML,Design Thinking,Prototyping,Usability Testing,Figma",Design,0,UX/UI Designer
+Master,"Firewalls,Network Security,SIEM,Penetration Testing,Cryptography,Linux,Ethical Hacking,Risk Assessment,Python","Security,Ethical Hacking,Network Protection",1,Cybersecurity Analyst
+Bachelor,"JavaScript,Data Structures,Docker,API Development,Java,Algorithms,Git","Web Development,Mobile Apps,Software Development",0,Software Engineer
+Master,"Agile,SQL,Data Analysis,Roadmap Planning,Stakeholder Management,Product Strategy","Product Development,Innovation",0,Product Manager
+Bachelor,"CI/CD,Jenkins,Docker,Bash,Linux,Azure,Python","Infrastructure,Cloud Computing",1,DevOps Engineer
+Bachelor,"Risk Assessment,Network Security,Cryptography,Ethical Hacking,Penetration Testing,Linux,SIEM","Network Protection,Ethical Hacking,Risk Management",2,Cybersecurity Analyst
+Master,"React,API Development,C++,Data Structures,AWS","Software Development,Problem Solving",1,Software Engineer
+Master,"PyTorch,Tableau,Python,TensorFlow,Deep Learning,Pandas,SQL,Data Visualization",Statistics,3,Data Scientist
+Bachelor,"Stakeholder Management,Product Strategy,Data Analysis,Agile,SQL,User Research,Roadmap Planning,Scrum,Leadership","Product Development,Leadership,Innovation",1,Product Manager
+Master,"Penetration Testing,Firewalls,Cryptography,Ethical Hacking,Risk Assessment,Python,Network Security,SIEM,Linux","Ethical Hacking,Security",3,Cybersecurity Analyst
+Bachelor,"Bash,Terraform,AWS,Python,Kubernetes,Git,Docker","Infrastructure,Automation",0,DevOps Engineer
+Master,"User Research,Prototyping,Figma,Wireframing,Usability Testing,CSS,Design Thinking,HTML,Adobe XD","User Experience,Product Development",0,UX/UI Designer
+Bachelor,"Usability Testing,User Research,Figma,Adobe XD,CSS,Design Thinking","Product Development,Visual Design,User Experience",1,UX/UI Designer
+Master,"Docker,C++,React,JavaScript,Node.js,Python,API Development,Git,SQL","Problem Solving,Mobile Apps",0,Software Engineer
+Bachelor,"SQL,Scrum,Agile,Stakeholder Management,Leadership,Product Strategy,User Research","Product Development,Leadership",3,Product Manager
+Bachelor,"Jenkins,Kubernetes,Ansible,Azure,Git,Terraform","System Administration,Automation,Cloud Computing",0,DevOps Engineer
+Bachelor,"Python,Linux,Azure,AWS,Git,Bash,Ansible,CI/CD",Cloud Computing,0,DevOps Engineer
+Bachelor,"API Development,Node.js,C++,React,SQL",Web Development,1,Software Engineer
+PhD,"Machine Learning,PyTorch,Python,Data Visualization,NumPy,Deep Learning,Pandas",Machine Learning,0,Data Scientist
+Bachelor,"Ethical Hacking,Cryptography,Firewalls,Linux,Penetration Testing,Network Security,Risk Assessment,SIEM","Risk Management,Network Protection,Ethical Hacking",0,Cybersecurity Analyst
+Bachelor,"Adobe XD,Wireframing,Prototyping,Design Thinking,Usability Testing,HTML,Figma,User Research,CSS","User Experience,Product Development,Visual Design",0,UX/UI Designer
+Bachelor,"Docker,Algorithms,Node.js,JavaScript,API Development,Python",Problem Solving,1,Software Engineer
+Bachelor,"Python,CI/CD,Git,Kubernetes,Jenkins,Ansible,Docker,Azure","Cloud Computing,Infrastructure,Automation",3,DevOps Engineer
+Bachelor,"Bash,CI/CD,AWS,Git,Azure,Kubernetes,Python,Docker,Jenkins","Cloud Computing,Automation",1,DevOps Engineer
+Master,"PyTorch,Data Visualization,Tableau,SQL,Machine Learning,Statistics,Python,TensorFlow,Pandas,R","Research,Machine Learning,Statistics",0,Data Scientist
+Master,"Kubernetes,Python,CI/CD,Bash,Ansible,Linux,AWS,Terraform,Azure,Docker",System Administration,0,DevOps Engineer
+Master,"Risk Assessment,Cryptography,Network Security,Python,Penetration Testing,SIEM,Linux","Network Protection,Security",0,Cybersecurity Analyst
+Bachelor,"Java,Git,AWS,Node.js,SQL,Docker,JavaScript,API Development","Software Development,Web Development",1,Software Engineer
+Bachelor,"Risk Assessment,Ethical Hacking,Network Security,SIEM,Python,Penetration Testing,Cryptography","Security,Network Protection,Risk Management",1,Cybersecurity Analyst
+Bachelor,"Adobe XD,CSS,Figma,User Research,Prototyping,Usability Testing,HTML","Product Development,Design",3,UX/UI Designer
+Bachelor,"AWS,React,Docker,Algorithms,API Development","Software Development,Problem Solving",1,Software Engineer
+Master,"Figma,HTML,User Research,Design Thinking,Wireframing,Usability Testing","Visual Design,Design",1,UX/UI Designer
+Bachelor,"Git,Node.js,React,AWS,Java","Web Development,Mobile Apps,Software Development",1,Software Engineer
+Bachelor,"Figma,Design Thinking,Usability Testing,CSS,Adobe XD,Prototyping","Design,Visual Design,User Experience",0,UX/UI Designer
+PhD,"R,Statistics,NumPy,Deep Learning,Machine Learning,SQL,Tableau,Python,PyTorch,Data Visualization",Research,1,Data Scientist
+Bachelor,"Risk Assessment,Penetration Testing,Ethical Hacking,Linux,SIEM,Network Security,Python,Firewalls,Cryptography","Ethical Hacking,Network Protection,Security",0,Cybersecurity Analyst
+Master,"Data Visualization,Python,Tableau,TensorFlow,Deep Learning,R,NumPy","Data Analysis,AI",2,Data Scientist
+Bachelor,"AWS,Kubernetes,Azure,Linux,Jenkins,Python",Infrastructure,0,DevOps Engineer
+Bachelor,"AWS,Jenkins,Azure,Bash,Linux,Git",Infrastructure,0,DevOps Engineer
+Bachelor,"CI/CD,Docker,Linux,Azure,Python,Ansible","Cloud Computing,Infrastructure,System Administration",1,DevOps Engineer
+Bachelor,"React,Node.js,C++,API Development,Docker","Software Development,Web Development",0,Software Engineer
+Master,"Prototyping,Figma,Wireframing,Adobe XD,Usability Testing,CSS,User Research,Design Thinking","Design,User Experience,Product Development",0,UX/UI Designer
+Master,"NumPy,PyTorch,TensorFlow,Statistics,Deep Learning,Pandas,Machine Learning","AI,Machine Learning,Statistics",1,Data Scientist
+Bachelor,"Firewalls,Ethical Hacking,Network Security,Linux,Penetration Testing,SIEM","Security,Ethical Hacking",1,Cybersecurity Analyst
+Master,"Terraform,Python,Linux,Bash,Docker,Kubernetes","System Administration,Automation",1,DevOps Engineer
+Bachelor,"SQL,Algorithms,API Development,Java,React,Docker,AWS,Node.js","Web Development,Software Development",2,Software Engineer
+Master,"Tableau,PyTorch,SQL,Data Visualization,Machine Learning,Deep Learning,Pandas,Python,Statistics,TensorFlow",Machine Learning,1,Data Scientist
+Bachelor,"AWS,Ansible,Bash,Azure,Kubernetes,Jenkins","Infrastructure,Automation,Cloud Computing",3,DevOps Engineer
+Master,"Linux,SIEM,Risk Assessment,Network Security,Firewalls,Cryptography,Ethical Hacking,Penetration Testing,Python",Risk Management,3,Cybersecurity Analyst
+Bachelor,"Python,Node.js,Algorithms,API Development,Docker,C++,SQL","Problem Solving,Mobile Apps",1,Software Engineer
+Bachelor,"Statistics,Deep Learning,Pandas,Machine Learning,Data Visualization,SQL,Python,PyTorch,TensorFlow,Tableau","Statistics,Machine Learning",0,Data Scientist
+Bachelor,"Cryptography,SIEM,Penetration Testing,Ethical Hacking,Python,Network Security,Firewalls,Linux,Risk Assessment",Ethical Hacking,2,Cybersecurity Analyst
+Bachelor,"Jenkins,AWS,Bash,Git,Linux,Terraform,Python",Infrastructure,0,DevOps Engineer
+PhD,"Pandas,TensorFlow,Machine Learning,Deep Learning,Python,SQL,Tableau,R",Data Analysis,2,Data Scientist
+Bachelor,"Usability Testing,Design Thinking,CSS,Wireframing,User Research,Prototyping,HTML","Product Development,Design,Visual Design",1,UX/UI Designer
+Bachelor,"R,NumPy,TensorFlow,Data Visualization,Statistics,Python,Machine Learning,Deep Learning,PyTorch,Pandas","Statistics,Machine Learning",0,Data Scientist
+Master,"Firewalls,Cryptography,Linux,Python,Penetration Testing,Ethical Hacking,SIEM,Risk Assessment",Network Protection,0,Cybersecurity Analyst
+Bachelor,"Data Visualization,Machine Learning,PyTorch,Statistics,Tableau,TensorFlow,R,Python","Statistics,Research,AI",0,Data Scientist
+Bachelor,"Ansible,AWS,Python,Jenkins,Kubernetes,Azure,Git,Linux","Infrastructure,Cloud Computing",1,DevOps Engineer
+Master,"R,NumPy,Machine Learning,Deep Learning,PyTorch,SQL",Data Analysis,0,Data Scientist
+Bachelor,"Adobe XD,CSS,Figma,User Research,Wireframing,Design Thinking,Prototyping","Visual Design,Product Development,User Experience",2,UX/UI Designer
+Bachelor,"Python,TensorFlow,NumPy,SQL,Statistics,PyTorch,Data Visualization,Deep Learning,Tableau,Machine Learning","Research,Statistics",0,Data Scientist
+Bachelor,"Product Strategy,User Research,SQL,Data Analysis,Leadership,Roadmap Planning,Stakeholder Management,Agile,Scrum","Innovation,Product Development",2,Product Manager
+Bachelor,"Wireframing,Design Thinking,Usability Testing,HTML,Figma,User Research,Adobe XD,Prototyping,CSS","Design,Product Development,User Experience",0,UX/UI Designer
+Bachelor,"Ethical Hacking,Firewalls,Risk Assessment,Python,Penetration Testing,SIEM,Linux,Cryptography","Security,Risk Management",1,Cybersecurity Analyst
+Bachelor,"SQL,Product Strategy,Scrum,Roadmap Planning,Leadership,Data Analysis,Agile","Leadership,Product Development",0,Product Manager
+Master,"Tableau,Python,Statistics,R,TensorFlow,Data Visualization,SQL,NumPy",AI,2,Data Scientist
+Master,"Ansible,Linux,CI/CD,Kubernetes,Python,Bash","Automation,System Administration",1,DevOps Engineer
+Master,"NumPy,Statistics,Python,R,TensorFlow,SQL,Pandas,Machine Learning,PyTorch,Data Visualization","Machine Learning,AI",2,Data Scientist
+Bachelor,"NumPy,Tableau,Pandas,Python,Data Visualization,R,SQL,Machine Learning","Research,Data Analysis,AI",0,Data Scientist
+Master,"Stakeholder Management,Leadership,Roadmap Planning,User Research,Product Strategy,SQL","Leadership,Innovation,Strategy",0,Product Manager
+Bachelor,"Figma,Usability Testing,HTML,Design Thinking,Wireframing,Prototyping,CSS,User Research,Adobe XD","User Experience,Product Development",1,UX/UI Designer
+Bachelor,"Data Analysis,Stakeholder Management,Agile,Product Strategy,Scrum,SQL",Product Development,0,Product Manager
+Bachelor,"Data Structures,C++,Java,AWS,Docker,Node.js,Algorithms","Problem Solving,Web Development,Software Development",0,Software Engineer
+Bachelor,"Risk Assessment,SIEM,Cryptography,Ethical Hacking,Penetration Testing,Linux,Network Security,Python","Ethical Hacking,Risk Management,Security",1,Cybersecurity Analyst
+Master,"SIEM,Ethical Hacking,Firewalls,Python,Network Security","Network Protection,Security",1,Cybersecurity Analyst
+PhD,"Pandas,PyTorch,TensorFlow,SQL,Tableau,Machine Learning,Python","Statistics,Data Analysis,AI",1,Data Scientist
+Master,"SQL,User Research,Stakeholder Management,Data Analysis,Product Strategy,Roadmap Planning,Leadership","Innovation,Leadership,Strategy",3,Product Manager
+Bachelor,"SQL,Tableau,R,Python,Machine Learning,Data Visualization,PyTorch,Statistics","Statistics,Machine Learning",1,Data Scientist
+Master,"HTML,Adobe XD,User Research,Figma,CSS,Design Thinking,Wireframing,Prototyping,Usability Testing","User Experience,Visual Design",0,UX/UI Designer
+Master,"TensorFlow,SQL,Statistics,PyTorch,R,Python,NumPy,Tableau,Data Visualization,Pandas","AI,Machine Learning",1,Data Scientist
+Master,"SQL,Data Analysis,Stakeholder Management,Scrum,Agile,Leadership,Roadmap Planning","Innovation,Product Development,Strategy",0,Product Manager
+Bachelor,"Git,Ansible,AWS,Terraform,CI/CD,Kubernetes,Jenkins",System Administration,3,DevOps Engineer
+Bachelor,"Adobe XD,Wireframing,Design Thinking,Prototyping,User Research,HTML,CSS",User Experience,1,UX/UI Designer
+Bachelor,"Agile,SQL,Leadership,User Research,Roadmap Planning,Scrum","Innovation,Leadership",1,Product Manager
+Bachelor,"Node.js,API Development,Data Structures,React,Docker,C++,Python,JavaScript,Algorithms",Web Development,1,Software Engineer
+Master,"User Research,Product Strategy,Stakeholder Management,Scrum,Agile,Roadmap Planning",Innovation,1,Product Manager
+Master,"Network Security,Firewalls,Risk Assessment,SIEM,Penetration Testing,Python","Ethical Hacking,Risk Management,Network Protection",0,Cybersecurity Analyst
+Bachelor,"Ethical Hacking,Risk Assessment,Cryptography,Penetration Testing,Linux,Python,Firewalls",Network Protection,3,Cybersecurity Analyst
+Master,"Data Visualization,SQL,Tableau,Statistics,Deep Learning,Machine Learning",Data Analysis,0,Data Scientist
+Master,"Leadership,Scrum,Stakeholder Management,Product Strategy,User Research,SQL,Agile,Data Analysis","Innovation,Strategy,Leadership",1,Product Manager
+Master,"PyTorch,NumPy,Machine Learning,TensorFlow,R,Pandas,Data Visualization,Python",Machine Learning,2,Data Scientist
+Bachelor,"SIEM,Risk Assessment,Linux,Ethical Hacking,Firewalls","Security,Network Protection,Risk Management",2,Cybersecurity Analyst
+Master,"Scrum,Data Analysis,SQL,User Research,Leadership,Roadmap Planning,Product Strategy,Stakeholder Management","Leadership,Strategy,Product Development",2,Product Manager
+Bachelor,"Machine Learning,Pandas,Data Visualization,Deep Learning,NumPy,Statistics","Machine Learning,Research,Data Analysis",3,Data Scientist
+Bachelor,"Roadmap Planning,Scrum,Agile,User Research,Stakeholder Management,Product Strategy,SQL,Leadership","Strategy,Product Development",3,Product Manager
+Master,"Prototyping,CSS,User Research,HTML,Wireframing","User Experience,Product Development,Visual Design",2,UX/UI Designer
+Master,"React,Git,Data Structures,Algorithms,Java",Web Development,1,Software Engineer
+Bachelor,"Python,Docker,SQL,Java,API Development","Software Development,Web Development,Mobile Apps",0,Software Engineer
+Bachelor,"TensorFlow,Statistics,Pandas,Machine Learning,NumPy,Data Visualization,R,Tableau,Deep Learning",Statistics,1,Data Scientist
+Bachelor,"Azure,Kubernetes,Docker,Git,AWS,Ansible,Bash","System Administration,Infrastructure,Cloud Computing",0,DevOps Engineer
+Bachelor,"Leadership,Scrum,User Research,Roadmap Planning,Data Analysis,SQL",Product Development,0,Product Manager
+Bachelor,"Python,Firewalls,Network Security,Penetration Testing,Ethical Hacking,Cryptography,SIEM,Linux","Risk Management,Security,Ethical Hacking",1,Cybersecurity Analyst
+PhD,"Pandas,SQL,Data Visualization,PyTorch,Machine Learning,NumPy,Deep Learning","AI,Statistics",1,Data Scientist
+Bachelor,"Docker,CI/CD,Ansible,Jenkins,Git,Azure,Bash","Infrastructure,Cloud Computing,System Administration",0,DevOps Engineer
+Master,"R,Statistics,SQL,Machine Learning,Data Visualization,Python,PyTorch,Deep Learning","AI,Machine Learning",2,Data Scientist
+Master,"Docker,Bash,Kubernetes,Linux,AWS,Ansible","Infrastructure,System Administration,Cloud Computing",0,DevOps Engineer
+Bachelor,"Jenkins,CI/CD,Azure,Docker,AWS,Python,Terraform,Git,Linux","Cloud Computing,Automation",0,DevOps Engineer
+Bachelor,"Git,Python,AWS,CI/CD,Linux,Ansible,Azure",System Administration,2,DevOps Engineer
+Master,"User Research,Scrum,Product Strategy,Leadership,Stakeholder Management,SQL,Data Analysis,Roadmap Planning,Agile","Innovation,Strategy",0,Product Manager
+Bachelor,"Figma,CSS,User Research,Design Thinking,Prototyping,HTML,Wireframing,Usability Testing","User Experience,Product Development",1,UX/UI Designer
+Master,"Tableau,Pandas,Data Visualization,Python,TensorFlow,Statistics,PyTorch,SQL,R,Deep Learning","Machine Learning,Data Analysis",0,Data Scientist
+Master,"Stakeholder Management,SQL,Product Strategy,Agile,Data Analysis,Leadership,Scrum,Roadmap Planning,User Research","Innovation,Strategy",0,Product Manager
+Bachelor,"Node.js,Docker,API Development,JavaScript,Java,Data Structures",Problem Solving,0,Software Engineer
+Master,"Scrum,SQL,Agile,Product Strategy,User Research,Data Analysis,Stakeholder Management,Roadmap Planning,Leadership","Leadership,Strategy,Product Development",2,Product Manager
+Bachelor,"Cryptography,Python,Ethical Hacking,Linux,SIEM,Risk Assessment,Network Security,Firewalls","Ethical Hacking,Security,Risk Management",1,Cybersecurity Analyst
+Master,"Deep Learning,NumPy,SQL,Machine Learning,Data Visualization,Python","Data Analysis,Research,Machine Learning",2,Data Scientist
+Master,"SQL,Data Visualization,Python,TensorFlow,Tableau,R,Machine Learning","Machine Learning,Statistics,AI",2,Data Scientist
+Master,"Python,Terraform,Docker,AWS,CI/CD,Kubernetes,Jenkins",Cloud Computing,0,DevOps Engineer
+Master,"Statistics,Deep Learning,TensorFlow,SQL,Tableau,PyTorch,Python,R","Research,Machine Learning",1,Data Scientist
+Master,"Figma,Adobe XD,HTML,Wireframing,Prototyping,Design Thinking,CSS,Usability Testing,User Research","User Experience,Visual Design,Design",0,UX/UI Designer
+Bachelor,"Jenkins,Terraform,Ansible,Python,Azure,Linux,Git,CI/CD,Bash","Infrastructure,Automation",1,DevOps Engineer
+Master,"Jenkins,Azure,Git,Terraform,Docker,Python,Linux",System Administration,0,DevOps Engineer
+Bachelor,"Wireframing,User Research,Usability Testing,HTML,Prototyping,Adobe XD,CSS",User Experience,0,UX/UI Designer
+Master,"Data Visualization,Deep Learning,R,Tableau,TensorFlow,Pandas,SQL","Data Analysis,AI",0,Data Scientist
+PhD,"Statistics,Pandas,R,SQL,Deep Learning,NumPy,Data Visualization,Python,Tableau,Machine Learning","Research,Statistics,Machine Learning",0,Data Scientist
+Bachelor,"SQL,Java,AWS,Algorithms,Git,Docker,React,API Development,Data Structures","Web Development,Problem Solving,Software Development",0,Software Engineer
+Master,"R,Machine Learning,TensorFlow,Statistics,Tableau,SQL,Data Visualization","Machine Learning,Statistics,Research",1,Data Scientist
+Master,"Firewalls,Penetration Testing,Linux,SIEM,Ethical Hacking","Network Protection,Ethical Hacking,Security",3,Cybersecurity Analyst
+Bachelor,"Wireframing,CSS,Design Thinking,HTML,User Research,Adobe XD",Product Development,2,UX/UI Designer
+Master,"Penetration Testing,Linux,Firewalls,Ethical Hacking,Risk Assessment,SIEM,Python,Network Security,Cryptography","Security,Ethical Hacking",0,Cybersecurity Analyst
+Master,"AWS,Jenkins,Kubernetes,Linux,Git,Bash","Infrastructure,System Administration",0,DevOps Engineer
+Master,"Python,Linux,Cryptography,Network Security,Penetration Testing,Ethical Hacking,SIEM,Risk Assessment,Firewalls",Risk Management,0,Cybersecurity Analyst
+Master,"User Research,Product Strategy,Roadmap Planning,Scrum,Data Analysis,Agile,Leadership,Stakeholder Management","Product Development,Innovation",1,Product Manager
+Master,"Python,Jenkins,Git,Bash,CI/CD,Kubernetes,Ansible,Docker",System Administration,1,DevOps Engineer
+Bachelor,"Cryptography,Python,Penetration Testing,Linux,SIEM,Network Security,Ethical Hacking,Firewalls","Security,Network Protection",0,Cybersecurity Analyst
+Bachelor,"CI/CD,Git,Azure,Python,Jenkins,AWS,Ansible,Bash,Kubernetes,Docker","System Administration,Infrastructure",0,DevOps Engineer
+Master,"Python,Deep Learning,Machine Learning,Tableau,TensorFlow,R,Statistics",Machine Learning,3,Data Scientist
+Master,"TensorFlow,Pandas,NumPy,Deep Learning,Data Visualization,Python,R,Statistics",AI,2,Data Scientist
