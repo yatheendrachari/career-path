@@ -138,11 +138,11 @@ const LearningPathPage = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 py-8 px-4">
-      <div className="max-w-5xl mx-auto">
+    <div className="min-h-screen bg-gray-50 py-12 px-4 flex items-center justify-center">
+      <div className="w-full max-w-5xl flex flex-col items-center text-center">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Learning Path Generator</h1>
+          <h1 className="text-4xl font-extrabold text-gray-900 mb-3">Learning Path Generator</h1>
           <p className="text-gray-600">Get a personalized roadmap to your dream career</p>
         </div>
 

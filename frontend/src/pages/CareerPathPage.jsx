@@ -416,7 +416,7 @@ const CareerPathPage = () => {
             {/* Generate Learning Path Button */}
             <button
               onClick={handleGenerateLearningPath}
-              className="w-full py-3 px-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg transition-all hover:shadow-lg"
+              className="w-full py-3 px-4 bg-green-600 hover:bg-green-700 text-black font-semibold rounded-lg transition-all hover:shadow-lg"
             >
               Generate Learning Path →
             </button>

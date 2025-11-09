@@ -32,13 +32,13 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-white via-blue-50 to-purple-50">
+    <div className="min-h-screen bg-linear-to-b from-white via-blue-50 to-purple-50">
       {/* Hero Section */}
       <section className="px-4 pt-20 pb-16 text-center animate-fadeIn">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Find Your Ideal Career Path
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
+            <span className="block text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-purple-600">
               with AI
             </span>
           </h1>
@@ -52,7 +52,7 @@ const HomePage = () => {
           <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
             <button
               onClick={() => navigate('/quiz')}
-              className="px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:shadow-xl transition-all hover:scale-105"
+              className="px-8 py-4 bg-linear-to-r from-blue-600 to-purple-600 text-black font-semibold rounded-lg hover:shadow-xl transition-all hover:scale-105"
             >
               Get Started →
             </button>
@@ -154,7 +154,7 @@ const HomePage = () => {
               <p className="text-red-600 mb-4">{error}</p>
               <button
                 onClick={() => window.location.reload()}
-                className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+                className="px-6 py-2 bg-blue-600 text-black rounded-lg hover:bg-blue-700"
               >
                 Retry
               </button>
@@ -229,7 +229,7 @@ const HomePage = () => {
               <p className="text-gray-600 mb-4">No careers available at the moment</p>
               <button
                 onClick={() => navigate('/career-path')}
-                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+                className="px-6 py-3 bg-blue-600 text-black rounded-lg hover:bg-blue-700"
               >
                 Discover Your Path
               </button>
@@ -239,7 +239,7 @@ const HomePage = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="px-4 py-16 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+      <section className="px-4 py-16 bg-gradient-to-r from-blue-600 to-purple-600 text-black">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
             Ready to Start Your Journey?
@@ -260,9 +260,9 @@ const HomePage = () => {
       <footer className="px-4 py-8 bg-gray-900 text-gray-400 text-center">
         <p className="mb-2">© 2024 Career Path Finder. All rights reserved.</p>
         <div className="flex items-center justify-center gap-6 text-sm">
-          <a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a>
-          <a href="/terms" className="hover:text-white transition-colors">Terms of Service</a>
-          <a href="/contact" className="hover:text-white transition-colors">Contact</a>
+          <a href="/privacy" className="hover:text-black transition-colors">Privacy Policy</a>
+          <a href="/terms" className="hover:text-black transition-colors">Terms of Service</a>
+          <a href="/contact" className="hover:text-black transition-colors">Contact</a>
         </div>
       </footer>
 
