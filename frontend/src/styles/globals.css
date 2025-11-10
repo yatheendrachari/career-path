@@ -116,23 +116,34 @@ body {
 
 /* Container */
 .container-custom {
-  max-width: 1536px;
+  max-width: 1920px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
   width: 100%;
 }
 
 .container-wide {
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 2rem;
+  max-width: none;
+  margin: 0;
+  padding-left: 6rem;
+  padding-right: 6rem;
   width: 100%;
+}
+
+@media (max-width: 1400px) {
+  .container-custom,
+  .container-wide {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
 }
 
 @media (max-width: 768px) {
   .container-custom,
   .container-wide {
-    padding: 0 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
