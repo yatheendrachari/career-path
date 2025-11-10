@@ -174,7 +174,7 @@ const QuizPageNew = () => {
       {/* Header */}
       <Navbar />
 
-      <div className="container-custom py-8">
+      <div className="container-wide py-8">
         <div className="max-w-3xl mx-auto">
           {/* Progress Section */}
           <div className="mb-8">

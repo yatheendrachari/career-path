@@ -77,7 +77,7 @@ const LearningPathPageNew = () => {
       {/* Header */}
       <Navbar />
 
-      <div className="container-custom py-12">
+      <div className="container-wide py-12">
         <div className="max-w-5xl mx-auto">
           {/* Page Header */}
           <div className="text-center mb-12">

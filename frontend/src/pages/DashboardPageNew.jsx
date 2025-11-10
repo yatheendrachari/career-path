@@ -103,7 +103,7 @@ const DashboardPageNew = () => {
       {/* Header */}
       <Navbar />
 
-      <div className="container-custom py-8">
+      <div className="container-wide py-8">
         {/* Welcome Section */}
         <div className="bg-gradient-primary rounded-2xl p-8 mb-8 text-white">
           <div className="max-w-2xl">

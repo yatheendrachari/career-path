@@ -36,10 +36,10 @@ const HomePageNew = () => {
       <Navbar />
 
       {/* Hero Section */}
-      <section className="py-20 md:py-32 relative overflow-hidden">
+      <section className="py-20 md:py-32 relative overflow-hidden w-full">
         <div className="absolute inset-0 bg-linear-to-b from-indigo-50/50 via-white to-white -z-10" />
 
-        <div className="container-custom">
+        <div className="container-wide">
           <div className="max-w-4xl mx-auto text-center">
             <div className="inline-flex items-center gap-2 bg-indigo-100 text-indigo-700 px-4 py-2 rounded-full text-sm font-medium mb-6 animate-fade-in">
               <span className="w-2 h-2 bg-indigo-500 rounded-full animate-pulse" />
@@ -95,8 +95,8 @@ const HomePageNew = () => {
       </section>
 
       {/* How It Works */}
-      <section id="how-it-works" className="py-20 bg-gray-50">
-        <div className="container-custom">
+      <section id="how-it-works" className="py-20 bg-gray-50 w-full">
+        <div className="container-wide">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               How It Works
@@ -147,8 +147,8 @@ const HomePageNew = () => {
       </section>
 
       {/* Features */}
-      <section id="features" className="py-20">
-        <div className="container-custom">
+      <section id="features" className="py-20 w-full">
+        <div className="container-wide">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Powerful Features
@@ -214,8 +214,8 @@ const HomePageNew = () => {
       </section>
 
       {/* Trending Careers */}
-      <section id="careers" className="py-20 bg-gray-50">
-        <div className="container-custom">
+      <section id="careers" className="py-20 bg-gray-50 w-full">
+        <div className="container-wide">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Trending Career Paths
@@ -291,10 +291,10 @@ const HomePageNew = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 relative overflow-hidden">
+      <section className="py-20 relative overflow-hidden w-full">
         <div className="absolute inset-0 bg-gradient-primary -z-10" />
 
-        <div className="container-custom text-center relative z-10">
+        <div className="container-wide text-center relative z-10">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Ready to Start Your Journey?
           </h2>
@@ -322,8 +322,8 @@ const HomePageNew = () => {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-gray-400 py-12">
-        <div className="container-custom">
+      <footer className="bg-gray-900 text-gray-400 py-12 w-full">
+        <div className="container-wide">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div className="col-span-2">
               <div className="flex items-center gap-2 mb-4">
