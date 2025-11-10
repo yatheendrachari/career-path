@@ -62,19 +62,5 @@ Get-Process -Name mongod
 ps aux | grep mongod
 ```
 
-## What I Fixed
 
-1. ✅ Added MongoDB connection check before database operations
-2. ✅ Added better error handling with clear messages
-3. ✅ Returns 503 (Service Unavailable) instead of 500 when MongoDB is down
-4. ✅ Frontend will now show: "Database is not available. Please ensure MongoDB is running."
-
-## Current Status
-
-- ✅ Frontend: Running on http://localhost:5173
-- ✅ Node.js Backend: Running on http://localhost:3000
-- ⚠️ MongoDB: **NEEDS TO BE STARTED**
-- ✅ Error handling: Improved
-
-Once MongoDB is running, everything will work!
 
