@@ -2,6 +2,7 @@ import React, { useState, useEffect, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { AuthContext } from '../context/AuthContext';
+import Navbar from '../components/NavbarNew';
 
 const DashboardPageNew = () => {
   const navigate = useNavigate();
@@ -100,33 +101,7 @@ const DashboardPageNew = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200">
-        <div className="container-custom">
-          <div className="flex items-center justify-between h-16">
-            <div className="flex items-center gap-2 cursor-pointer" onClick={() => navigate('/')}>
-              <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">C</span>
-              </div>
-              <span className="font-bold text-xl text-gray-900">CareerPath</span>
-            </div>
-
-            <div className="flex items-center gap-4">
-              <button
-                onClick={() => navigate('/quiz')}
-                className="btn btn-primary btn-sm"
-              >
-                Take Quiz
-              </button>
-              <button
-                onClick={handleLogout}
-                className="btn btn-secondary btn-sm"
-              >
-                Logout
-              </button>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Navbar />
 
       <div className="container-custom py-8">
         {/* Welcome Section */}

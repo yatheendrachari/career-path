@@ -1,6 +1,7 @@
 import React, { useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { CareerContext } from '../context/CareerContext';
+import Navbar from '../components/NavbarNew';
 
 const QuizPageNew = () => {
   const navigate = useNavigate();
@@ -171,25 +172,7 @@ const QuizPageNew = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200">
-        <div className="container-custom">
-          <div className="flex items-center justify-between h-16">
-            <div className="flex items-center gap-2 cursor-pointer" onClick={() => navigate('/')}>
-              <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">C</span>
-              </div>
-              <span className="font-bold text-xl text-gray-900">CareerPath</span>
-            </div>
-
-            <button
-              onClick={() => navigate('/career-path')}
-              className="text-sm text-gray-600 hover:text-gray-900 font-medium"
-            >
-              Skip quiz →
-            </button>
-          </div>
-        </div>
-      </header>
+      <Navbar />
 
       <div className="container-custom py-8">
         <div className="max-w-3xl mx-auto">
