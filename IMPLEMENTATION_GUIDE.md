@@ -80,7 +80,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import { CareerProvider } from './context/CareerContext';
 
-// Import NEW pages
+// Import NEW pages (with integrated navbar)
 import HomePageNew from './pages/HomePageNew';
 import DashboardPageNew from './pages/DashboardPageNew';
 import CareerPathPageNew from './pages/CareerPathPageNew';
@@ -146,6 +146,8 @@ function App() {
 export default App;
 ```
 
+**Note:** All new pages now have the unified navbar automatically integrated!
+
 ### Step 4: Update LoginPage and SignupPage (Optional)
 
 If you want to update the Login and Signup pages to match the new design, you can style them similarly.
@@ -158,6 +160,32 @@ If you want to update the Login and Signup pages to match the new design, you ca
 // Use input className for form inputs
 ```
 
+### Step 4: Test the Navbar
+
+The navbar is now integrated across all pages with these features:
+
+**For Non-Authenticated Users:**
+- Home link
+- Login button
+- Sign Up button
+
+**For Authenticated Users:**
+- Home link
+- Dashboard link
+- Quiz link
+- Career Path link
+- Learning Path link
+- User dropdown with:
+  - User avatar and name
+  - Dashboard shortcut
+  - Logout button
+
+**Mobile Features:**
+- Responsive hamburger menu
+- Slide-in animation
+- Full navigation on mobile
+- User info on mobile
+
 ### Step 5: Verify File Structure
 
 Make sure you have all the new files in place:
@@ -166,7 +194,8 @@ Make sure you have all the new files in place:
 frontend/
 ├── src/
 │   ├── components/
-│   │   └── Toast.jsx                    ✅ NEW
+│   │   ├── Toast.jsx                    ✅ NEW
+│   │   └── NavbarNew.jsx                ✅ NEW
 │   ├── pages/
 │   │   ├── HomePageNew.jsx              ✅ NEW
 │   │   ├── DashboardPageNew.jsx         ✅ NEW
@@ -434,10 +463,17 @@ You now have a modern, professional UI that:
 - ✅ Follows best practices
 - ✅ Works with your existing backend
 
-**Total files created:** 7 new files
+**Total files created:** 8 new files (including NavbarNew.jsx)
 **Total files to update:** 3 existing files
 **New dependencies:** 0 (uses existing tools)
 
 **Estimated implementation time:** 15-30 minutes
+
+**Navbar Features:**
+- ✅ Unified navigation across all pages
+- ✅ User authentication status aware
+- ✅ Responsive mobile menu
+- ✅ Account management dropdown
+- ✅ Active route highlighting
 
 Enjoy your new professional design! 🎉
